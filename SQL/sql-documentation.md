@@ -11,7 +11,10 @@
 8. [Set Operations](#set-operations)
 9. [Functions](#basic-functions)
 10. [Window Functions](window-functions.md)
-11. [Execution Hierarchy]()
+11. [FAQ](FAQ.md)
+    1.  [Execution Hierarchy](FAQ#execution-hierarchy)
+    2.  [CTE](FAQ#common-table-expression)
+    3.  [Pivot Tables](pivoting-tables.md)
  
 ## Resources : 
 - [SQL-Basics.pdf](resources/sql-basics-cheat-sheet-a4.pdf)
@@ -202,9 +205,9 @@ OFFSET <>
 ### Aggregation and Grouping
 `GROUP BY` groups together rows that have the same values in specified columns. It computes summaries (aggregates) for each unique combination of values. 
 
-**Note** : The number of rows are reduced due to the group by clause. Window function also operate on subset of rows but do not reduce the number of rows
+[Aggregation Functions](#aggregation-functions) are used along with `GROUP BY` 
 
-[Aggregation Functions](#aggregation-functions)
+**Note** : The number of rows are reduced due to the group by clause. Window function also operate on subset of rows but do not reduce the number of rows
 
 ## Joins
 

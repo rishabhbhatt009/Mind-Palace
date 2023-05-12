@@ -6,11 +6,17 @@
 3. [Modyfing Tables](#modifying-tables)
 4. [SELECT statement](#select-statements)
 5. [Conditional statements](#conditional-statement)
-6. [Joins and set operations]()
-7. [Basic Functions]()
-8. [Window Functions]()
-9. [Execution Hierarchy]()
-10. 
+6. [Aggregation and Grouping]()
+7. [Joins](#joins)
+8. [Set Operations](#set-operations)
+9. [Functions](#basic-functions)
+10. [Window Functions](window-functions.md)
+11. [Execution Hierarchy]()
+ 
+## Resources : 
+- [SQL-Basics.pdf](resources/sql-basics-cheat-sheet-a4.pdf)
+- [SQL-Joins.pdf](resources/joins-cheat-sheet-a4.pdf)
+- [SQL-Window-Functions.pdf](resources/Window_Functions_Cheat_Sheet.pdf)
 
 <hr>
 
@@ -193,8 +199,138 @@ OFFSET <>
 - `_`: one character (can use multiple to denote specific number)
 <hr>
 
-## Joins and set operations
+### Aggregation and Grouping
+`GROUP BY` groups together rows that have the same values in specified columns. It computes summaries (aggregates) for each unique combination of values. 
 
+**Note** : The number of rows are reduced due to the group by clause. Window function also operate on subset of rows but do not reduce the number of rows
+
+[Aggregation Functions](#aggregation-functions)
+
+## Joins
+
+![image](resources/sql-join-chart-custom-poster-size-sql.png)
+
+```sql
+--- explicit joins
+SELECT <col names> 
+FROM <table1>
+<INNER, LEFT, RIGHT, FULL, CROSS> JOIN <table2>
+ON <table1.col> = <table2.col>
+;
+
+--- implicit / corss joins
+SELECT <col names> 
+FROM <table1>, <table2>
+;
+
+```
+
+### Type of joins : 
+1. `JOIN` / `INNER JOIN` - only rows with common key
+2. `LEFT JOIN` / LEFT OUTER JOIN
+3. `RIGHT JOIN` / RIGHT OUTER JOIN
+4. `FULL JOIN` / FULL OUTTER JOIN 
+   - union of left and right joins
+5. `CROSS JOIN` 
+   - combination of all rows 
+   - an implicit join with no WHERE condition = CROSS JOIN
+6. `NATURAL JOIN` 
+   - Produces unexpected results - don’t use
+
+Types : 
+- SELF JOIN - joining table with itself
+- NON-EQUI SELF JOIN - when you usenon-equality in the `ON` condition
+    ```sql 
+    SELECT
+    a.toy_name AS toy_a,
+    b.toy_name AS toy_b
+    FROM toy a
+    JOIN toy b
+    ON a.cat_id < b.cat_id;
+    ```
+- MULTIPLE JOINS : basic just joining multiple times
+- <font color='pink'>JOIN WITH MULTIPLE CONDITIONS</font> / COMPOUND CONDITIONS
+    ```sql
+    SELECT
+    cat_name,
+    o.name AS owner_name,
+    c.age  AS cat_age,
+    o.age  AS owner_age
+    FROM cat c
+    JOIN owner o
+    ON c.owner_id = o.id
+    AND c.age < o.age;
+    ```
+
+Notes :
+- Join tables both horizontally and vertically 
+- Can alias table without AS also
+- Implicit and Explicit JOINs 	
+- - `USING` clause : when the column name are same for the 2 tables we can use `USING col_name` instead of `ON table1.col_name = table2.col_name`
+    ```sql
+    SELECT <> 
+    FROM <table 1>
+    JOIN <table 2>
+    USING ( <col name> )
+    ```
+<hr>
+
+## Set operations 
+
+`UNION` Operation :
+- A OR B
+- combine queries 
+- creates a vertical stack 
+- query output should have same number of columns (and data type) 
+- name of the column depends on first query 
+- `UNION` vs `UNION ALL` : 
+  - `UNION` - removes duplicate rows
+  - `UNION ALL` - does not removes duplicate rows
+
+`INTERSECT` Operation :
+- A AND B
+- returns only rows that appear in both result sets
+
+`EXCEPT` / `MINUS` Operation :
+- A - B
+- returns only the rows that appear in the first result set but do not appear in the second result set.
+
+```sql
+SELECT <col name> 
+FROM <table name>
+UNION 
+SELECT <col name> 
+FROM <table name> 
+. . .
+UNION / INTERSECT / EXCEPT
+. . .
+<more queries> 
+; 
+```
+<hr>
+
+## Basic Functions 
+
+### Functions 
+- `IFNULL (col name, default value)` 
+- `COALESCE ( )` - returns first non-null value
+- `FORMAT ( )`
+- `DATE_TRUNC ( )` 
+- Number Functions : 
+  - `ROUND (col_name, precision) `
+- String Functions : 
+  - `LEFT (string, char)` 
+  - `RIGHT (string, char)`
+
+
+### Aggregation Functions
+- `COUNT ( )` : count the number of values (not unique values)
+- `SUM ( )`
+- `AVG ( )` 
+- `MIN ( )` 
+- `MAX ( )`
+
+<hr>
 
 
 

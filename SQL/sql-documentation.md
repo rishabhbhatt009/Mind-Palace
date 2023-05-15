@@ -322,8 +322,10 @@ UNION / INTERSECT / EXCEPT
 - Number Functions : 
   - `ROUND (col_name, precision) `
 - String Functions : 
-  - `LEFT (string, char)` 
-  - `RIGHT (string, char)`
+  - `CHAR_LENGTH(string)`
+  - `LEFT (string, num_char)` | `RIGHT (string, num_char)`
+  - `UPPER(string)` | `LOWER(string)`
+
 
 
 ### Aggregation Functions
@@ -334,6 +336,7 @@ UNION / INTERSECT / EXCEPT
 - `MAX ( )`
 
 <hr>
+
 
 
 

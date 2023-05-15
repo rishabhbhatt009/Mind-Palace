@@ -1,15 +1,29 @@
 # Data Structures and Algorithm 
 
-- Arrays and Hashing
-  - 
-- Linked List
-  - 
-- Stacks and Queues
-  - 
-- Binary Search 
-  - 
 
+## Strategy : 
 
+### Breadth First Strategy 
+Cover something in all topics 
+- [Top Interview Questions Easy](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)
+- [Top Interview Questions Medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)
+- [Top Interview Questions Hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
+
+- Graph
+- Dynamic Programming
+
+<hr>
+
+## Algorithms :
+- Slow and Fast pointer 
+- Hashmaps 
+
+<hr> 
+
+## Question to remember 
+- **Rotating a image 90 degree** = Transpose + Reverse each row
+
+<hr>
 
 ## Clear Leet Code Explore Cards 
 

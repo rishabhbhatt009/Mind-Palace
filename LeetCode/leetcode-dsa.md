@@ -17,23 +17,21 @@ Cover something from all topics before diving deep into some topics
 - [Top Interview Questions Medium](https://leetcode.com/explore/interview/card/top-interview-questions-medium/)
 - [Top Interview Questions Hard](https://leetcode.com/explore/interview/card/top-interview-questions-hard/)
 
-
 ### 2. Using plain txt editor 
 Use plain text editor like **google docs** to write code before you executing/running on the leetcode console
-
 
 
 <hr>
 
 ## Algorithms :
-
 - Slow and Fast pointer 
 - Hashmaps 
 
 <hr>
 
-## Leetcode questions to remember
+## Leetcode things to remember
 - **Rotating a image 90 degree** = Transpose + Reverse each column
+- **Incrementing in while loop** : always remember to update control variables in while loop   
 
 <hr>
 

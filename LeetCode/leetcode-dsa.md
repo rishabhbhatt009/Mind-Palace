@@ -20,18 +20,23 @@ Cover something from all topics before diving deep into some topics
 ### 2. Using plain txt editor 
 Use plain text editor like **google docs** to write code before you executing/running on the leetcode console
 
+### 3. Give 30-45 Mins per problem 
+Don't spend 3-4 hours on a **single question**. If you are not able to solve questions within 30-45 minutes you probably wont be able to solve the question. **Look at the solution and understand why it works**.
 
 <hr>
 
 ## Algorithms :
 - Slow and Fast pointer 
 - Hashmaps 
+- [Dynamic Programming](./dynamic-programming.md) 
 
 <hr>
 
 ## Leetcode things to remember
 - **Rotating a image 90 degree** = Transpose + Reverse each column
-- **Incrementing in while loop** : always remember to update control variables in while loop   
+- **Incrementing in while loop** : always remember to update control variables in while loop
+- **Copy of a list** : `lst2 = lst1` creates a pointer to the same lst, does not create a copy. [Python](../Python/Python.md/#creating-a-copy-of-list-shallow-vs-deepcopy-link) 
+- [Questions = Min Stack](https://leetcode.com/problems/min-stack/description/) : How to get min of a stack in O(1) without using heap 
 
 <hr>
 

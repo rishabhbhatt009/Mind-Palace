@@ -1,8 +1,26 @@
 remote_theme: carlosperate/jekyll-theme-rtd
-# remote_theme: marella/jekyll-theme-documentation
+
+title: Mind Palace
+description: Mind Palace for Rishabh Bhatt
+
+# Specific to this theme
+site_author: Rishabh Bhatt
+repo_url: 'https://github.com/rishabhbhatt009/Mind-Palace'
+edit_on_github: true
+github_docs_folder: true
+logo: ''
+site_favicon: ''
+sticky_navigation: true
+# prev_next_buttons_location: None
+# prev_next_buttons_location: top
+prev_next_buttons_location: bottom
+# prev_next_buttons_location: both
+search_enabled: true
+# google_analytics: UA-XXXXX-Y
+# google_analytics_anonymize_ip: true
+
+# The highlight.js library provides 79 different colours for their syntax highlighting. The default is github-gist.
+hljs_style: github-gist
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-### for local preview 
-# gem "github-pages", group: :jekyll_plugins

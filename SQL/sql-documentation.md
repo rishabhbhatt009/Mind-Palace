@@ -1,20 +1,27 @@
 # SQL Documentation 
 
-## Table of Contents 
-1. [SQL Theory]()
-2. [Creating Tables](#creating-tables)
-3. [Modyfing Tables](#modifying-tables)
-4. [SELECT statement](#select-statements)
-5. [Conditional statements](#conditional-statement)
-6. [Aggregation and Grouping]()
-7. [Joins](#joins)
-8. [Set Operations](#set-operations)
-9. [Functions](#basic-functions)
-10. [Window Functions](window-functions.md)
-11. [FAQ](FAQ.md)
-    1.  [Execution Hierarchy](FAQ#execution-hierarchy)
-    2.  [CTE](FAQ#common-table-expression)
-    3.  [Pivot Tables](pivoting-tables.md)
+## Table of Contents <!-- omit from toc -->
+- [Resources :](#resources-)
+- [Creating Tables](#creating-tables)
+  - [Data Types](#data-types)
+  - [Constraints](#constraints)
+- [Modifying Tables](#modifying-tables)
+  - [Dropping Table](#dropping-table)
+  - [Modifying Schema](#modifying-schema)
+  - [Inserting data](#inserting-data)
+  - [Modifying data](#modifying-data)
+- [Select Statements](#select-statements)
+- [Conditional Statement](#conditional-statement)
+  - [Conditions :](#conditions-)
+  - [Regular Expression](#regular-expression)
+  - [Wildcards :](#wildcards-)
+  - [Aggregation and Grouping](#aggregation-and-grouping)
+- [Joins](#joins)
+  - [Type of joins :](#type-of-joins-)
+- [Set operations](#set-operations)
+- [Basic Functions](#basic-functions)
+  - [Functions](#functions)
+  - [Aggregation Functions](#aggregation-functions)
  
 ## Resources : 
 - [SQL-Basics.pdf](resources/sql-basics-cheat-sheet-a4.pdf)
@@ -74,7 +81,7 @@ We can use the following data types :
 - We use `INSERT` to add data to existing columns 
 - We use `UPDATE` to change existing data 
 
-### Droping Table
+### Dropping Table
 ```sql
 DROP TABLE table_name ;
 ```

@@ -67,11 +67,17 @@
   - django 
 
 ## Debugging Django app in VSCode 
+<<<<<<< HEAD
 - Using VSCode 
   - create a launch profile 
   - select `django` default config
   - add breakpoints and debug
 - Using **[django debug toolbar]((https://django-debug-toolbar.readthedocs.io/en/latest/))**
+=======
+- create a launch profile 
+- select `django` default config
+- add breakpoints and debug
+>>>>>>> origin/main
 
 <hr>
 

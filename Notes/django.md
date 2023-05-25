@@ -133,14 +133,6 @@
 ### Templates 
 - we use template to return HTML content to client
 - HTML can have variables ~ `{{var_name}}` and conditions 
-
-  ```html
-  {% if condition %} 
-  then ...
-  {% else %} 
-
-  {% endif %}
-  ```
 - 
 - 
 

@@ -72,7 +72,7 @@
   - create a launch profile 
   - select `django` default config
   - add breakpoints and debug
-- Using **[django debug toolbar]((https://django-debug-toolbar.readthedocs.io/en/latest/))**
+- Using [django debug toolbar]((https://django-debug-toolbar.readthedocs.io/en/latest/))
 
 
 <hr>

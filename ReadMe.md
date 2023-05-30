@@ -4,8 +4,9 @@
 1. [Python]()
 2. [SQL](SQL/sql-documentation.md)
 3. [Machine Learning]()
+4. [Django](./Notes/django.md)
 
-## Interview Preparaition 
+## Interview Preparation  
 1. [LeetCode-DSA](LeetCode/leetcode-dsa.md)
 2. [LeetCode-SQL](LeetCOde/leetcode-sql.md)
 
@@ -15,3 +16,4 @@
 - What is Jekyll and Jenkins  
 - Web Framework   
 - GitHub Actions workflow
+- AWS DevOps ? 

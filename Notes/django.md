@@ -5,15 +5,16 @@
   - [Fundamentals of Web Development :](#fundamentals-of-web-development-)
   - [Fundamentals of Django :](#fundamentals-of-django-)
 - [Environment Setup](#environment-setup)
-- [Debugging Django app in VSCode](#debugging-django-app-in-vscode)
-- [Notes](#notes)
+- [Debugging Django application](#debugging-django-application)
+- [Django Project](#django-project)
   - [Create new project](#create-new-project)
   - [Running the server](#running-the-server)
   - [Creating new application](#creating-new-application)
   - [Views](#views)
   - [Mapping URLs to view functions](#mapping-urls-to-view-functions)
   - [Templates](#templates)
-  - [](#)
+- [Data Models](#data-models)
+  - [Building a **Data-Model**](#building-a-data-model)
 
 <hr>
 
@@ -66,22 +67,17 @@
 - install dependencies 
   - django 
 
-## Debugging Django app in VSCode 
-<<<<<<< HEAD
+## Debugging Django application
 - Using VSCode 
   - create a launch profile 
   - select `django` default config
   - add breakpoints and debug
 - Using **[django debug toolbar]((https://django-debug-toolbar.readthedocs.io/en/latest/))**
-=======
-- create a launch profile 
-- select `django` default config
-- add breakpoints and debug
->>>>>>> origin/main
+
 
 <hr>
 
-## Notes
+## Django Project 
 
 ### Create new project 
 - `django-admin` : list subcommands 
@@ -139,7 +135,10 @@
 ### Templates 
 - we use template to return HTML content to client
 - HTML can have variables ~ `{{var_name}}` and conditions 
-- 
-- 
 
-###
+<hr>
+
+## Data Models 
+
+### Building a **Data-Model** 
+- 

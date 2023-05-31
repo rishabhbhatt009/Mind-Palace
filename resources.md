@@ -24,3 +24,4 @@
 ## Links
 - [GitHub Pages Documentation](https://docs.github.com/en/pages/quickstart)
 - [Documentation Theme](https://github.com/marella/jekyll-theme-documentation)
+- [Read the doc Jekyll Theme](https://www.embeddedlog.com/jekyll-theme-rtd/quickstart.html)

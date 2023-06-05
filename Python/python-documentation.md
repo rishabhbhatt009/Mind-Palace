@@ -1,7 +1,5 @@
 # Programming Language : **Python** 
 
-<hr>
-
 ## Table Of Content <!-- omit from toc -->
 - [Decorators](#decorators)
 - [Collections](#collections)

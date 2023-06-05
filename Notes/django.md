@@ -1,6 +1,7 @@
 # Web-Development Framework (Django)
 
 ## Table Of Content <!-- omit from toc -->
+- [Why Django was **created** ?](#why-django-was-created-)
 - [Fundamentals of Web Development](#fundamentals-of-web-development)
 - [Fundamentals of Django](#fundamentals-of-django)
 - [Environment Setup and Debugging](#environment-setup-and-debugging)
@@ -17,6 +18,8 @@
 - [Object Relational Manager (ORM)](#object-relational-manager-orm)
 
 <hr>
+
+## Why Django was **created** ? 
 
 ## Fundamentals of Web Development
 

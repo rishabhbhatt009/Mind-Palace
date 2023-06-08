@@ -9,6 +9,7 @@
 - [FAQ](#faq)
   - [**Shallow v/s Deepcopy**, creating a copy of list](#shallow-vs-deepcopy-creating-a-copy-of-list)
   - [Binary Operation](#binary-operation)
+  - [Dynamic Attribute Handling in Python](#dynamic-attribute-handling-in-python)
 
 <hr>
 
@@ -154,3 +155,8 @@ c = a ^ b # = 3
 ```
 
 Base conversion : [link](https://www.rapidtables.com/convert/number/base-converter.html)
+
+### Dynamic Attribute Handling in Python
+- Functions like `getattr()`, `setattr()`, `hasattr()`, `delattr()`
+- Resource : https://www.youtube.com/watch?v=2C1BOPAMGHc&ab_channel=NeuralNine 
+

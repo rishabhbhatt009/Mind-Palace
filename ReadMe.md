@@ -13,7 +13,9 @@
 ## [Resources](./Resources.md) 
 
 ## To-Do
+- [ASK](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/what-is-the-alexa-skills-kit.html) 
 - What is Jekyll and Jenkins  
 - Web Framework   
 - GitHub Actions workflow
 - AWS DevOps ? 
+

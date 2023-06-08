@@ -21,6 +21,10 @@
 
 ## Why Django was **created** ? 
 
+- Django is a web development framework 
+- [Web App Architecture](https://www.youtube.com/watch?v=sDlCSIDwpDs&ab_channel=ForrestKnight) 
+- [Backend Dev Overview](https://www.youtube.com/watch?v=XBu54nfzxAQ&list=LL&index=1&ab_channel=SuperSimpleDev)
+
 ## Fundamentals of Web Development
 
 - There are 2 sides :
@@ -236,5 +240,10 @@ A good design finds middle-ground b/w monolith and unix.
 Therefore a good design has **minimum coupling** and **high cohesion (focus)**.
 
 <hr>
+
+## Migrations 
+
+- Making migration files : `python manage.py makemigrations` (new migration created every time a feature is added- similar to commit in VCS like git)
+- 
 
 ## Object Relational Manager (ORM)

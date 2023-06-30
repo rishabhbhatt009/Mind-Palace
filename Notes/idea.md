@@ -3,10 +3,11 @@
 - Implement first -> then add fluff
 
 ## Make Things 
-1. Chrome Extensions-1 
-2. [ICD Code Scraper](https://www.icd10data.com/ICD10PCS/Codes/0/0) 
-3. [Heat-Map Generator]()
-4. 
+1. [Alexa Skill](https://developer.amazon.com/en-US/alexa/alexa-haus)
+2. Chrome Extensions-1 
+3. [ICD Code Scraper](https://www.icd10data.com/ICD10PCS/Codes/0/0) 
+4. [Heat-Map Generator]()
+5. 
 
 ## Investment 
 1. Copy Trading 

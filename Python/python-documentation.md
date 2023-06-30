@@ -10,8 +10,11 @@
   - [**Shallow v/s Deepcopy**, creating a copy of list](#shallow-vs-deepcopy-creating-a-copy-of-list)
   - [Binary Operation](#binary-operation)
   - [Dynamic Attribute Handling in Python](#dynamic-attribute-handling-in-python)
+  - [Dataclass](#dataclass)
 
 <hr>
+
+<!------------------------------------------------------------------------------------------------>
 
 ## Decorators 
 
@@ -83,6 +86,8 @@ Decorators Used :
 
 <hr>
 
+<!------------------------------------------------------------------------------------------------>
+
 ## Collections 
 
 ### 1. Default Dictionary 
@@ -117,7 +122,15 @@ for num in lst :
 
 <hr>
 
+<!-- 
+===================================================================================================
+FAQs for random questions that pop up
+===================================================================================================
+ -->
+
 ## FAQ
+
+<!------------------------------------------------------------------------------------------------>
 
 ### **Shallow v/s Deepcopy**, creating a copy of list 
 Resource : [Link](https://www.dataquest.io/blog/python-copy-list/)
@@ -136,6 +149,8 @@ Resource : [Link](https://www.dataquest.io/blog/python-copy-list/)
 | The list.copy() method     | shallow copy                |
 | The copy.copy() function   | shallow copy                |
 | The copy.deepcopy() function | deep copy                  |
+
+<!------------------------------------------------------------------------------------------------>
 
 ### Binary Operation
 
@@ -156,7 +171,33 @@ c = a ^ b # = 3
 
 Base conversion : [link](https://www.rapidtables.com/convert/number/base-converter.html)
 
+<!------------------------------------------------------------------------------------------------>
+
 ### Dynamic Attribute Handling in Python
 - Functions like `getattr()`, `setattr()`, `hasattr()`, `delattr()`
 - Resource : https://www.youtube.com/watch?v=2C1BOPAMGHc&ab_channel=NeuralNine 
 
+<!------------------------------------------------------------------------------------------------>
+
+### Dataclass
+- Use full for data heavy classes as it provides implementation for for `__init__` , `__repr__`, 
+- Reduces the **amount of code** you have to re-write every time you add an attribute
+- **Default Value** : We have the ability to set default values for attributes using `field`
+- this is useful for mutable types like `list`. Setting `[]` as default values will result in all instances pointing to the same list upon initialization
+- using a decorator `@dataclass()`
+  - Parameters :
+    - `frozen` : attributes can not be changed once declared 
+    - `kw_only` : arguments have to be supplied with keywords on init
+- You can also set parameters like 
+  - `init` : include attribute in `init`
+  - `repr` : include attribute in object `repr` 
+- You can define functions : 
+  - `def __postinit__(self)` : runs after initialization for attributed that depend on other attributes
+
+
+- Resource : https://www.youtube.com/watch?v=CvQ7e6yUtnw&ab_channel=ArjanCodes
+
+<!-- 
+===================================================================================================
+===================================================================================================
+ -->

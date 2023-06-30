@@ -15,6 +15,12 @@
 - [Data Models](#data-models)
   - [Building a Data-Model](#building-a-data-model)
   - [Data Model Organization](#data-model-organization)
+- [Migrations](#migrations)
+  - [Making migration files :](#making-migration-files-)
+  - [Creating the DB](#creating-the-db)
+  - [**Reverting migrations**](#reverting-migrations)
+  - [**Changing database engine**](#changing-database-engine)
+  - [**Custom migrations**](#custom-migrations)
 - [Object Relational Manager (ORM)](#object-relational-manager-orm)
 
 <hr>
@@ -243,7 +249,53 @@ Therefore a good design has **minimum coupling** and **high cohesion (focus)**.
 
 ## Migrations 
 
-- Making migration files : `python manage.py makemigrations` (new migration created every time a feature is added- similar to commit in VCS like git)
-- 
+### Making migration files : 
+- command : `python manage.py makemigrations` 
+- create migration files (`.py`) for every time you update data models 
+- new migration should be created every time a feature is added - similar to `git commit`
+- each migration has version 
+
+### Creating the DB
+- command : `python manage.py migrate` 
+- creates the following tables :
+  - `auth_` : for user authentication 
+  - `django_` : for django 
+  - `app_` : for each application defined by data models 
+
+### **Reverting migrations** 
+- command : `python manage.py migrate <version_name>`
+- partial revert :
+- complete revert : 
+- Note : remember to delete code to make sure all 
+
+### **Changing database engine** 
+- connect to server -> initiate database -> run migrate again to create database 
+- modify `settings.py` 
+  ```python 
+  DATABASES = {
+      "default": {
+          "ENGINE": "django.db.backends.mysql",
+          "NAME": "storefront",
+          "HOST": "localhost",
+          "USER": "root",
+          "PASSWORD": "Rishabh123$"
+      }
+  }
+  ```
+### **Custom migrations** 
+  - create empty migration : `python manage.py makemigrations <name> --empty`
+  - add SQL code to migration file
+    
+    ``` python 
+    operations = [
+        migrations.RunSQL(
+            ''' SQL command to DO-operation '''
+            , 
+            ''' SQL command to UNDO-operation '''
+        )
+    ]
+    ``` 
+
+- **Mock Data** : https://www.mockaroo.com/
 
 ## Object Relational Manager (ORM)

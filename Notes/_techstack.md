@@ -1,15 +1,13 @@
 <!---------------------------------------------------------------------------->
 # Technology Stack 
-- Frontend      : 
-- Backend       : Python
-- SQL           : MySQL, PostgreSQL
+- Frontend : 
+- Backend : Python
+- SQL : MySQL, PostgreSQL
 - Data Science  :  
-
-- IDE           : VSCode 
-- Notes         : VSCode 
+- IDE : VSCode 
+- Notes : VSCode 
 
 <!---------------------------------------------------------------------------->
-
 ## Things I heard and sound interesting
 - API
 - Kubernetes
@@ -28,9 +26,7 @@
 
 ## What I'm Good at ? 
 
-
 <!---------------------------------------------------------------------------->
-
 ## Plan for 2023 
 - API
 - Docker 

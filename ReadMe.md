@@ -1,13 +1,16 @@
 # Mind Palace
 
 ## Documentations
-1. [Python]()
-2. [SQL](SQL/sql-documentation.md)
-3. [Machine Learning]()
-4. [Django](./Notes/django.md)
+- [SQL](SQL/sql-documentation.md)
+- [Django](./Notes/django.md)
 
 ## Interview Preparation  
-1. [LeetCode-DSA](LeetCode/leetcode-dsa.md)
-2. [LeetCode-SQL](LeetCOde/leetcode-sql.md)
 
-## [Resources](./Resources.md) 
+## Notes 
+- [Resources](./Resources.md) 
+- [[Books]]
+- [[API]]
+- [[REST API]]
+- [[Apache Spark]] 
+- [[Doordash]]
+- 

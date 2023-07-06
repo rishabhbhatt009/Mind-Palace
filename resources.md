@@ -35,3 +35,7 @@
 - GitHub Actions workflow
 - AWS DevOps 
 
+## Videos :
+- Interview Prep
+	- [Exponent](https://www.youtube.com/@tryexponent/playlists)
+- 

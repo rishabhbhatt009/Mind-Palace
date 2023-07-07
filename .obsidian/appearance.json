@@ -2,5 +2,6 @@
   "accentColor": "",
   "baseFontSize": 16,
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Things"
 }

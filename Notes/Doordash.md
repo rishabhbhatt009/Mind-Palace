@@ -5,7 +5,7 @@
 	- lag in data -> business decisions were being made on old data 
 	- streaming data -> reporting adverse event  
 - 
-- heterogeneous data sources 
+	- heterogeneous data sources 
 - 
 
 

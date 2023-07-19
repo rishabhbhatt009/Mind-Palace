@@ -1,4 +1,12 @@
 {
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -7,12 +15,12 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:swap-line-down": [
+  "editor:toggle-bullet-list": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "ArrowDown"
+      "key": "-"
     }
   ]
 }

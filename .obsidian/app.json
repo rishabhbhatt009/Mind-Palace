@@ -1,10 +1,10 @@
 {
-  "livePreview": true,
-  "readableLineLength": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Notes",
+  "trashOption": "local",
+  "newFileLocation": "current",
   "showUnsupportedFiles": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "./attachments",
   "showInlineTitle": false
 }

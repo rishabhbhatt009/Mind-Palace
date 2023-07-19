@@ -2,15 +2,17 @@
 
 ## Documentations
 - [SQL](SQL/sql-documentation.md)
-- [Django](./Notes/django.md)
+- [Django](django.md)
 
 ## Interview Preparation  
 
 ## Notes 
 - [Resources](./Resources.md) 
+- [[Job Applications]] 
+- [[DoorDash]]
 - [[Books]]
 - [[API]]
 - [[REST API]]
 - [[Apache Spark]] 
-- [[Doordash]]
-- 
+- [[Obsidian]] 
+- [[docker]]

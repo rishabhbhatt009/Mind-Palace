@@ -33,8 +33,12 @@
             "id": "abad2bc271f9594e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/zs-associates.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes.md"
+              }
             }
           }
         ]
@@ -161,6 +169,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+<<<<<<< HEAD
   "active": "abad2bc271f9594e",
   "lastOpenFiles": [
     "Notes/zs-associates.md",
@@ -182,6 +191,12 @@
     "Notes/GitHub/Theory.md",
     "Notes/GitHub/Command-Database.md",
     "Notes/GitHub",
+=======
+  "active": "9cb9fe96c14ee145",
+  "lastOpenFiles": [
+    "Notes/zs-associates.md",
+    "Notes.md",
+>>>>>>> 613edf93c521a4d6b0d8dc33d79d107ed4c2146a
     "Notes/Docker.md",
     "Notes/DoorDash.md",
     "Notes/Tech Stack.md",
@@ -192,7 +207,26 @@
     "Notes/interview.md",
     "Notes/idea.md",
     "Notes/Books.md",
+<<<<<<< HEAD
     "Notes/Django-Documentation",
+=======
+    "Notes/Python-Documentation/test-driven-development.md",
+    "Notes/Python-Documentation/python-documentation.md",
+    "Notes/Job Applications.md",
+    "Notes/Interview - Resources.md",
+    "Notes/jekyll.md",
+    "Notes/Obsidian.md",
+    "Notes/REST API.md",
+    "Notes/build-resume.md",
+    "Notes/API.md",
+    "Notes/Apache Spark.md",
+    "Notes/Django-Documentation/Django.md",
+    "Notes/Django-Documentation",
+    "LeetCode/leetcode-dsa.md",
+    "LeetCode/leetcode-sql.md",
+    "LeetCode/time-and-space-complexity.md",
+    "Data Structure and Algorithm/!Data Structures & Algorithms.md",
+>>>>>>> 613edf93c521a4d6b0d8dc33d79d107ed4c2146a
     "System Design"
   ]
 }

@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bd194003bf1c1a60",
+        "id": "13e255cc0e6467db",
         "type": "tabs",
-        "dimension": 40.02347417840375,
+        "dimension": 23.678025851938894,
         "children": [
           {
-            "id": "2821cff9945f2fdd",
+            "id": "9cb9fe96c14ee145",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "494c86ce278ed862",
+        "id": "bd194003bf1c1a60",
         "type": "tabs",
-        "dimension": 59.97652582159624,
+        "dimension": 76.3219741480611,
         "children": [
           {
-            "id": "f34d37b36bbb8a2e",
+            "id": "abad2bc271f9594e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,30 +161,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "34791c897685a5ab",
+  "active": "abad2bc271f9594e",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "Notes/Python-Documentation/test-driven-development.md",
-    "Notes/Python-Documentation/python-documentation.md",
-    "Notes/Job Applications.md",
-    "resources.md",
-    "Notes/Interview - Resources.md",
-    "Notes/jekyll.md",
-    "Notes/Obsidian.md",
-    "Notes/REST API.md",
     "Notes/zs-associates.md",
-    "Notes/build-resume.md",
+    "Notes.md",
+    "Notes/GitHub-Documentation/!GitHub-Documentation.md",
+    "Notes/GitHub-Documentation/!GitHub.md",
+    "Notes/GitHub-Documentation/How to pull latest changes to your local.md",
+    "Notes/GitHub-Documentation/How to create and share your SSH key.md",
+    "Notes/GitHub-Documentation/GitHub.md",
+    "Notes/GitHub-Documentation/How-to-review-Pull-Request.md",
+    "Notes/How-to-review-Pull-Request.md",
+    "Notes/How to pull latest changes to your local.md",
+    "Notes/How to create and share your SSH key.md",
+    "Notes/GitHub.md",
+    "Notes/Linux-Command-Line.md",
+    "Notes/GitHub-Documentation/Theory.md",
+    "Notes/GitHub-Documentation/Command-Database.md",
+    "Notes/GitHub-Documentation",
+    "Notes/GitHub/Theory.md",
+    "Notes/GitHub/Command-Database.md",
+    "Notes/GitHub",
+    "Notes/Docker.md",
+    "Notes/DoorDash.md",
+    "Notes/Tech Stack.md",
+    "ReadMe.md",
+    "Notes/quotes.md",
+    "Notes/resources/1605081-UdhavAnand.pdf",
+    "Notes/resources.md",
+    "Notes/interview.md",
+    "Notes/idea.md",
     "Notes/Books.md",
-    "Notes/API.md",
-    "Notes/Apache Spark.md",
-    "Notes/_techstack.md",
-    "Notes/Django-Documentation/django.md",
     "Notes/Django-Documentation",
-    "LeetCode/leetcode-dsa.md",
-    "LeetCode/leetcode-sql.md",
-    "LeetCode/time-and-space-complexity.md",
-    "Data Structure and Algorithm/!Data Structures & Algorithms.md",
-    "System Design",
-    "Obsidian.md"
+    "System Design"
   ]
 }

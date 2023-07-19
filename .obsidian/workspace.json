@@ -4,35 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "bd194003bf1c1a60",
+        "id": "13e255cc0e6467db",
         "type": "tabs",
-        "dimension": 40.02347417840375,
+        "dimension": 23.678025851938894,
         "children": [
           {
-            "id": "2821cff9945f2fdd",
+            "id": "9cb9fe96c14ee145",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "494c86ce278ed862",
+        "id": "bd194003bf1c1a60",
         "type": "tabs",
-        "dimension": 59.97652582159624,
+        "dimension": 76.3219741480611,
         "children": [
           {
-            "id": "f34d37b36bbb8a2e",
+            "id": "ee8d1fea94f54dd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/zs-associates.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -101,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes.md"
+              }
             }
           }
         ]
@@ -159,30 +169,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "34791c897685a5ab",
+  "active": "9cb9fe96c14ee145",
   "lastOpenFiles": [
+    "Notes/zs-associates.md",
+    "Notes.md",
+    "Notes/Docker.md",
+    "Notes/DoorDash.md",
+    "Notes/Tech Stack.md",
     "ReadMe.md",
+    "Notes/quotes.md",
+    "Notes/resources/1605081-UdhavAnand.pdf",
+    "Notes/resources.md",
+    "Notes/interview.md",
+    "Notes/idea.md",
+    "Notes/Books.md",
     "Notes/Python-Documentation/test-driven-development.md",
     "Notes/Python-Documentation/python-documentation.md",
     "Notes/Job Applications.md",
-    "resources.md",
     "Notes/Interview - Resources.md",
     "Notes/jekyll.md",
     "Notes/Obsidian.md",
     "Notes/REST API.md",
-    "Notes/zs-associates.md",
     "Notes/build-resume.md",
-    "Notes/Books.md",
     "Notes/API.md",
     "Notes/Apache Spark.md",
-    "Notes/_techstack.md",
-    "Notes/Django-Documentation/django.md",
+    "Notes/Django-Documentation/Django.md",
     "Notes/Django-Documentation",
     "LeetCode/leetcode-dsa.md",
     "LeetCode/leetcode-sql.md",
     "LeetCode/time-and-space-complexity.md",
     "Data Structure and Algorithm/!Data Structures & Algorithms.md",
-    "System Design",
-    "Obsidian.md"
+    "System Design"
   ]
 }

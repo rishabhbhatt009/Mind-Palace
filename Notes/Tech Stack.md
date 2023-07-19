@@ -1,5 +1,6 @@
-<!---------------------------------------------------------------------------->
 # Technology Stack 
+
+---
 - Frontend : 
 - Backend : Python
 - SQL : MySQL, PostgreSQL
@@ -7,8 +8,8 @@
 - IDE : VSCode 
 - Notes : VSCode 
 
-<!---------------------------------------------------------------------------->
-## Things I heard and sound interesting
+---
+Things I heard and sound interesting
 - API
 - Kubernetes
 - Docker
@@ -22,12 +23,12 @@
 - NoSQL : Neo4j, DynamoDB, Pinecone
 - CI/CD : Jenkins, GitHub Actions   
 
-## Need in the world 
+Need in the world 
 
-## What I'm Good at ? 
+What I'm Good at ? 
 
-<!---------------------------------------------------------------------------->
+---
 ## Plan for 2023 
-- API
-- Docker 
 - Apache Spark 
+- Docker + Kubernetes
+- API

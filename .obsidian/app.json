@@ -6,5 +6,6 @@
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview",
   "attachmentFolderPath": "./attachments",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useMarkdownLinks": true
 }

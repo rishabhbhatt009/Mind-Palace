@@ -2,9 +2,9 @@
 
 Companies : 
 - Meta
-- Amazon (Bedrock)
+- Amazon 
 - Apple
-- Netflix
+- Netflix : Completed L4 (2023-07-20) 
 - Google
 
 ---

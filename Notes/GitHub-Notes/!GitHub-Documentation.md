@@ -3,8 +3,8 @@
 ---
 # Index Page : 
 
-1. [[Theory]] 
-2. [[Command-Database]] 
+1. [[Notes/GitHub-Notes/Theory]] 
+2. [[Notes/GitHub-Notes/Command-Database]] 
 	- Basic Commands
 	- Branching and Merging 
 	- Collaborating with others 
@@ -12,8 +12,8 @@
 	- Git ignore file 
 3. Questions :
 	- [Connecting with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) 
-	- [[How to pull latest changes to your local]]
-	- [[How-to-review-Pull-Request]] 
+	- [[Notes/GitHub-Notes/How to pull latest changes to your local]]
+	- [[Notes/GitHub-Notes/How-to-review-Pull-Request]] 
 	- 
 4. Links
 	- 

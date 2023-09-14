@@ -6,31 +6,10 @@
       {
         "id": "13e255cc0e6467db",
         "type": "tabs",
-        "dimension": 23.678025851938894,
+        "dimension": 78.2021151586369,
         "children": [
           {
-            "id": "9cb9fe96c14ee145",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "bd194003bf1c1a60",
-        "type": "tabs",
-        "dimension": 76.3219741480611,
-        "children": [
-          {
-            "id": "abad2bc271f9594e",
+            "id": "d0ba19510184727d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,6 +18,27 @@
                 "mode": "preview",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d5f9708b524e840",
+        "type": "tabs",
+        "dimension": 21.797884841363103,
+        "children": [
+          {
+            "id": "9cb9fe96c14ee145",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 249.5
   },
   "right": {
     "id": "63c94c117a166c8a",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Notes/zs-associates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Notes/zs-associates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Notes/zs-associates.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,64 +170,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-<<<<<<< HEAD
-  "active": "abad2bc271f9594e",
+  "active": "34791c897685a5ab",
   "lastOpenFiles": [
+    "Notes/Streamlit.md",
+    "Notes/Technology-Stack.canvas",
+    "Notes/Vision Board.canvas",
     "Notes/zs-associates.md",
-    "Notes.md",
-    "Notes/GitHub-Documentation/!GitHub-Documentation.md",
-    "Notes/GitHub-Documentation/!GitHub.md",
-    "Notes/GitHub-Documentation/How to pull latest changes to your local.md",
-    "Notes/GitHub-Documentation/How to create and share your SSH key.md",
-    "Notes/GitHub-Documentation/GitHub.md",
-    "Notes/GitHub-Documentation/How-to-review-Pull-Request.md",
-    "Notes/How-to-review-Pull-Request.md",
-    "Notes/How to pull latest changes to your local.md",
-    "Notes/How to create and share your SSH key.md",
-    "Notes/GitHub.md",
-    "Notes/Linux-Command-Line.md",
-    "Notes/GitHub-Documentation/Theory.md",
-    "Notes/GitHub-Documentation/Command-Database.md",
-    "Notes/GitHub-Documentation",
-    "Notes/GitHub/Theory.md",
-    "Notes/GitHub/Command-Database.md",
-    "Notes/GitHub",
-=======
-  "active": "9cb9fe96c14ee145",
-  "lastOpenFiles": [
-    "Notes/zs-associates.md",
-    "Notes.md",
->>>>>>> 613edf93c521a4d6b0d8dc33d79d107ed4c2146a
-    "Notes/Docker.md",
-    "Notes/DoorDash.md",
-    "Notes/Tech Stack.md",
-    "ReadMe.md",
-    "Notes/quotes.md",
-    "Notes/resources/1605081-UdhavAnand.pdf",
-    "Notes/resources.md",
-    "Notes/interview.md",
-    "Notes/idea.md",
-    "Notes/Books.md",
-<<<<<<< HEAD
-    "Notes/Django-Documentation",
-=======
-    "Notes/Python-Documentation/test-driven-development.md",
-    "Notes/Python-Documentation/python-documentation.md",
-    "Notes/Job Applications.md",
-    "Notes/Interview - Resources.md",
-    "Notes/jekyll.md",
-    "Notes/Obsidian.md",
-    "Notes/REST API.md",
-    "Notes/build-resume.md",
-    "Notes/API.md",
-    "Notes/Apache Spark.md",
-    "Notes/Django-Documentation/Django.md",
-    "Notes/Django-Documentation",
-    "LeetCode/leetcode-dsa.md",
-    "LeetCode/leetcode-sql.md",
+    "Notes/attachments/database.jpeg",
+    "Notes/attachments/1605081-UdhavAnand.pdf",
+    "attachments/Pasted image 20230909163059.png",
+    "LeetCode/resources/sort-complexity.png",
+    "LeetCode/resources/algo-complexity.png",
+    "SQL/leetcode-sql.md",
     "LeetCode/time-and-space-complexity.md",
-    "Data Structure and Algorithm/!Data Structures & Algorithms.md",
->>>>>>> 613edf93c521a4d6b0d8dc33d79d107ed4c2146a
+    "LeetCode/dynamic-programming.md",
+    "LeetCode/leetcode-dsa.md",
+    "Index.md",
+    "ReadMe.md",
+    "Untitled.canvas",
+    "OBOBqq",
+    "Notes/2023-12-12.md",
+    "Notes/Philosophy.md",
+    "Notes/Job Applications.canvas",
+    "attachments",
+    "Notes/Books.md",
+    "Notes/Pipenv.md",
+    "Notes/Streamlit-Documentation.md",
+    "Notes/Docker-Notes/Linux-Command-Line.md",
+    "Notes/Python-Notes/python-documentation.md",
+    "Notes/Django-Notes/!Django.md",
+    "Notes/Docker-Notes/!Docker.md",
+    "Notes/How to read a book.md",
+    "Notes/Project Ideas.md",
+    "Notes/Tech Stack.canvas",
+    "Notes/FPL.md",
+    "Notes/Docker-Notes/Docker-Commands.md",
+    "Notes/Docker-Notes/Dockerfile.md",
+    "Notes/Docker-Notes/Docker-Notes.md",
+    "Notes/REST API.md",
+    "Notes/jekyll.md",
+    "Notes/Docker-Notes",
+    "Notes/Chrome-Extension-Notes",
+    "Notes/GitHub-Notes",
+    "Notes/GitHub",
+    "Notes/Django-Notes",
     "System Design"
   ]
 }

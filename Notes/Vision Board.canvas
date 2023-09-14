@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"Notes/Books.md","id":"2814cca14b9faa33","x":-1040,"y":-190,"width":680,"height":750},
+		{"type":"text","text":"# TRUST THE PROCESS\n\nWhat are things that make men great ?\n- **Read** books\n- Articulating solution\n- Small Relentless Improvements\n- **Create** ","id":"3fac8a748302a25d","x":-327,"y":-190,"width":467,"height":340},
+		{"type":"file","file":"Notes/Philosophy.md","id":"a2c371f529d94049","x":-1040,"y":601,"width":680,"height":400},
+		{"type":"text","text":"# [Technology-Stack](Notes/Technology-Stack.canvas)\n# Finance \n","id":"b258e1e275819704","x":160,"y":420,"width":640,"height":360},
+		{"type":"text","text":"- Skills\n\t- [x] Solving a Rubik's cube - 8th Aug 2023 \n\t- [ ] Riding a Long Board ","id":"75eb486b38927126","x":160,"y":801,"width":640,"height":181},
+		{"type":"file","file":"Notes/Project Ideas.md","id":"79fbce3679b57ba7","x":160,"y":-190,"width":640,"height":590},
+		{"type":"file","file":"attachments/Pasted image 20230909163059.png","id":"f594be6f81206974","x":-293,"y":220,"width":400,"height":149},
+		{"type":"text","text":"By the 1st of April 2024, I will start working in Google as a Software Development Engineer. \n\nIn return I will dedicate myself, (learn, grow and become the best engineer at Google) to help them become a better organization.  ","id":"ab50a4a2fea823f5","x":-327,"y":400,"width":467,"height":200}
+	],
+	"edges":[]
+}

@@ -1,4 +1,4 @@
-# Programming Language : **Python** 
+# Python
 
 ## Table Of Content <!-- omit from toc -->
 - [Decorators](#decorators)
@@ -12,10 +12,11 @@
   - [Dynamic Attribute Handling in Python](#dynamic-attribute-handling-in-python)
   - [Dataclass](#dataclass)
 
-<hr>
+---
 
-<!------------------------------------------------------------------------------------------------>
+>[!Quote] Python allows you to thing while you are coding 
 
+---
 ## Decorators 
 
 Resource : https://realpython.com/primer-on-python-decorators/

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Current Stack \n\n- Frontend : \n- Backend : Python, Django\n- Database : \n\t- SQL : MySQL, PostgreSQL\n\t- NoSQL : Redis\n- Data Science \n- IDE : VSCode \n- Notes : Obsidian \n\n","id":"6a61329d1fa0e0df","x":-360,"y":-460,"width":360,"height":380},
+		{"type":"text","text":"## Future Technology \n\n- API + REST + GraphQL\n- **Distributed Systems** : Apache Spark | Apache Kafka | Apache Airflow\n- JS + NodeJS\n- Rust \n- Serverless : AWS-Lambda \n- NoSQL : Neo4j, DynamoDB, MongoDB, Pinecone\n- CI/CD : Jenkins, GitHub Actions   \n","id":"cc7c6d484bd95e42","x":-360,"y":-60,"width":720,"height":400},
+		{"type":"text","text":"## Plan for 2023 \n\n- **System Design** \n- Django \n- Apache Spark + Kafka\n- Docker + Kubernetes\n- API : REST, GraphQL","id":"fc981480002cb94d","x":20,"y":-460,"width":340,"height":380},
+		{"type":"text","text":"## Notes\n\n- [Linux-Command-Line](Notes/Docker-Notes/Linux-Command-Line.md)\n- [Django](Notes/Django-Notes/!Django.md)\n- [Docker](Notes/Docker-Notes/!Docker.md)\n- [Obsidian](Notes/Obsidian.md) \n- [Building Chrome Extension](Notes/Chrome-Extension-Notes/Building%20Chrome%20Extension.md)\n","id":"d892fbcedb1b30b2","x":380,"y":-460,"width":380,"height":800}
+	],
+	"edges":[]
+}

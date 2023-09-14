@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"text","text":"### FAANG : \n\n- [ ] Meta\n- [ ] Amazon \n- [ ] Apple\n- [ ] Netflix :\n- [ ] Google\n\n### Other Companies : \n\n- [ ] Databricks \n- [ ] DoorDash \n- [ ] Adobe\n- [ ] TikTok\n- [ ] Walmart\n- [ ] Spotify","id":"783291d714dbb112","x":-820,"y":-605,"width":380,"height":545},
+		{"type":"text","text":"Search Resources : \n- levels.fyi : Jobs | Top paying companies, **last 24 hrs** | Latest compensation list \n- LinkedIn : Top paying companies, **last 24 hrs**\n- Simplify : Jobs \n- New Grad GitHub (OA)\n\n\nPost-Offer Resources : \n- [Comparing the Offers & Making a Decision](https://www.youtube.com/watch?v=8EbmukxMghc&ab_channel=PragmaticEngineer)","id":"5f9d1ed301326f95","x":-820,"y":-40,"width":780,"height":300},
+		{"type":"text","text":"### Leads : \n\n- [!] JP Morgan \n- [ ] PayPal Hiring\n- [ ] Pena - vision engineer\n- [ ] Arc Best : robotics perception engineer\n- [x] Recommendation (Google, Apple, Adobe)\n\n---\n- OA : Akuna, Citadel, MathWork \n","id":"73a0aa4e3986a88c","x":-420,"y":-605,"width":380,"height":545}
+	],
+	"edges":[]
+}

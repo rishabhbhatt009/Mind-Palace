@@ -1,6 +1,7 @@
 # Resources 
 
 ## GitHub Repositories :
+
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -13,29 +14,29 @@
 - VS-Code Extension Repos :
   - [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown)
 
-## Websites :
-- https://overapi.com/
 
+---
+## Websites :
+
+- https://overapi.com/ : Cheat sheet for API calls for different languages 
+
+
+---
 ## YouTube Videos : 
+
+- Interview Prep : [Exponent](https://www.youtube.com/@tryexponent/playlists)
+- HTML and CSS : [Flex Box](https://www.youtube.com/watch?v=phWxA89Dy94&ab_channel=SlayingTheDragon)
 - [DevOps](https://www.youtube.com/watch?v=htBL_bS_kwE&ab_channel=edureka%21)
-- [Django](https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh)
 - [Web3.0](https://www.youtube.com/watch?v=wHTcrmhskto&ab_channel=Fireship)
 
 
+---
 ## Links
+
 - [GitHub Pages Documentation](https://docs.github.com/en/pages/quickstart)
 - [Documentation Theme](https://github.com/marella/jekyll-theme-documentation)
 - [Read the doc Jekyll Theme](https://www.embeddedlog.com/jekyll-theme-rtd/quickstart.html)
 - [ASK Documentation](https://developer.amazon.com/en-US/docs/alexa/documentation-home.html) 
 
-## Things-To-Do :
-- Frontend in Python Framework : PyReact
-- Backend Web Framework : Django  
-- What is Jekyll and Jenkins  
-- GitHub Actions workflow
-- AWS DevOps 
 
-## Videos :
-- Interview Prep
-	- [Exponent](https://www.youtube.com/@tryexponent/playlists)
-- 
+---

@@ -2,12 +2,12 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "trashOption": "local",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview",
   "attachmentFolderPath": "./attachments",
   "showInlineTitle": false,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "newFileFolderPath": "Notes"
 }

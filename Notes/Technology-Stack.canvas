@@ -1,8 +1,8 @@
 {
 	"nodes":[
+		{"id":"70be93fe29428624","x":180,"y":-570,"width":380,"height":890,"type":"file","file":"Notes/Technical-Notes/!Tech-Notes.md"},
 		{"type":"text","text":"## Current Stack \n\n- Frontend : \n- Backend : Python, Django\n- Distributed System : \n- Database : \n\t- SQL : MySQL, PostgreSQL\n\t- NoSQL : Redis\n- Data Science \n- IDE : VSCode \n- Notes : Obsidian \n\n","id":"6a61329d1fa0e0df","x":-1000,"y":-570,"width":580,"height":425},
 		{"type":"text","text":"## Plan for 2023 \n\n- [ ] DSA\n- [ ] Creating end to end data pipeline \n\t- How to Approach design and architecture ?\n\t- SQL API \n\t- Messaging and notificaiton service\n- [ ] Apache Spark + Airflow\n- [ ] Java Script\n- [ ] What is API : REST, gRPC, GraphQL\n- [x] Django, DAF \n- [x] Docker \n- [x] Pipenv \n- [x] Streamlit\n- [x] System Design : First Run","id":"fc981480002cb94d","x":-400,"y":-570,"width":560,"height":890},
-		{"type":"text","text":"## Notes\n\n- [Streamlit](Notes/Streamlit-Notes/!Streamlit.md)\n- [Docker](Notes/Docker-Notes/!Docker.md)\n- [Django](Notes/Django-Notes/!Django.md)\n- [Linux-Command-Line](Notes/Docker-Notes/Linux-Command-Line.md)\n- [Building Chrome Extension](Notes/Chrome-Extension-Notes/Building%20Chrome%20Extension.md)\n- [Obsidian](Notes/Obsidian.md) \n- [Package Manager - pipenv](Package%20Manager%20-%20pipenv.md)\n\n","id":"d892fbcedb1b30b2","x":180,"y":-570,"width":380,"height":890},
 		{"type":"text","text":"## Future Technology \n\n- API :\n\t- What is API, different types of API \n\t- Design Principles \n- **Distributed Systems** : Apache Spark | Apache Kafka | Apache Airflow\n- **Rust**\n- JS + NodeJS\n- Go Lang\n- Cloud \n\t- Serverless : AWS-Lambda \n- NoSQL : Neo4j, DynamoDB, MongoDB, Pinecone\n- CI/CD : Jenkins, GitHub Actions   \n","id":"cc7c6d484bd95e42","x":-1000,"y":-120,"width":580,"height":440}
 	],
 	"edges":[]

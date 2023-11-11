@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9b044746c5dace79",
+        "id": "1f2ec8366ee843bd",
         "type": "tabs",
         "children": [
           {
-            "id": "11e4b744805ccf9f",
+            "id": "3a91bdfdfc318176",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Technical-Notes/Apache Airflow.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -62,39 +66,25 @@
             }
           },
           {
-            "id": "fe5466eecb76c75f",
+            "id": "4f31b2670f1643f2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Technical-Notes/Python-Notes/!Python Core.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fb9b67042405c292",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
-                "mode": "preview",
+                "file": "Notes/Technical-Notes/!Tech-Notes.md",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 670.5
+    "width": 323.5
   },
   "right": {
     "id": "63c94c117a166c8a",
@@ -110,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Technical-Notes/Apache Airflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Technical-Notes/Apache Airflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Technical-Notes/Apache Airflow.md"
+              }
             }
           }
         ]
@@ -169,49 +163,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "11e4b744805ccf9f",
+  "active": "3a91bdfdfc318176",
   "lastOpenFiles": [
+    "Notes/Technical-Notes/!Tech-Notes.md",
+    "Notes/Technical-Notes/Python-Notes/logging.md",
+    "Notes/Technical-Notes/Python-Notes/decorators.md",
+    "Notes/Technical-Notes/Python-Notes/collections.md",
+    "Notes/Technical-Notes/Python-Notes/!Python Core.md",
+    "Notes/Technical-Notes/Apache Airflow.md",
+    "Notes/Technical-Notes/Streamlit-Notes/Streamlit-Code-Snips.md",
+    "Notes/Technical-Notes/Streamlit-Notes/!Streamlit.md",
+    "Notes/Technical-Notes/API.md",
+    "Notes/Technical-Notes/REST API.md",
+    "Notes/Technical-Notes/jekyll.md",
+    "Notes/Technical-Notes/Java Script.md",
+    "Notes/Technical-Notes/Cloud.md",
+    "Notes/Technical-Notes/Cron.md",
+    "Notes/Daily-Routine.md",
+    "Notes/Vision Board.canvas",
+    "Index.md",
+    "Notes/Technology-Stack.canvas",
     "Notes/Technical-Notes/Python-Notes/Problem with Mutable Default Arguments in Functions.md",
     "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
-    "Notes/Technical-Notes/Python-Notes/!Python Core.md",
-    "Notes/Vision Board.canvas",
-    "Notes/Daily-Routine.md",
     "Notes/Technical-Notes/Python-Notes/Package Manager - pipenv.md",
     "Notes/Technical-Notes/Python-Notes/FAQ/Creating a copy of list.md",
     "Notes/Technical-Notes/Python-Notes/FAQ/Function type and execution order.md",
     "Notes/Technical-Notes/Python-Notes/FAQ/Comparing objects.md",
     "Notes/Technical-Notes/Python-Notes/FAQ/Time Complexity of pop() and why dequeue is important.md",
     "Notes/Technical-Notes/Python-Notes/FAQ/Variable Scope.md",
-    "Notes/Technical-Notes/Python-Notes/Collections.md",
-    "Notes/Technical-Notes/Python-Notes/Decorators.md",
     "Notes/Technical-Notes/Python-Notes/test-driven-development.md",
     "Notes/Technical-Notes/Python-Notes/FAQ/Binary Operations + Base Conversion.md",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Dynamic Attribute Handling in Python.md",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Dataclass.md",
     "Creating a copy of list (Shallow v",
     "Notes/Technical-Notes/Python-Notes/FAQ",
-    "Index.md",
-    "Notes/Technical-Notes/Cloud.md",
-    "Notes/Technical-Notes/Java Script.md",
-    "Notes/Technical-Notes/jekyll.md",
     "Notes/Technical-Notes/Python-Notes/Python Core",
-    "Notes/Technical-Notes/AWS/Redshift.md",
     "Notes/Workout.canvas",
-    "Notes/Workout.md",
     "Notes/Building-Resume.canvas",
     "Notes/Technical-Notes/AWS",
-    "Notes/FPL.md",
     "Notes/attachments/Pasted image 20231101072842.png",
     "Notes/attachments/Pasted image 20231101072543.png",
     "Notes/attachments/Pasted image 20231101065857.png",
     "Notes/attachments/Pasted image 20231101065449.png",
     "Notes/attachments/Pasted image 20231101065320.png",
     "Notes/attachments/Pasted image 20231101065233.png",
-    "Notes/Books/!Books.md",
     "Notes/Job Applications.canvas",
-    "Notes/Obsidian.md",
-    "Notes/Philosophy.md",
-    "Notes/Technology-Stack.canvas",
     "Notes/Pharma-Consulting/Patient Journey.sql",
     "Notes/Pharma-Consulting",
     "Notes/Technical-Notes/SQL-Notes/resources/Window_Functions_Cheat_Sheet.pdf",

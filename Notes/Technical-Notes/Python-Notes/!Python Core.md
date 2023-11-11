@@ -4,8 +4,8 @@
 
 ---
 
-- [[Decorators]]
-- [[Collections]]
+- [[decorators]]
+- [[collections]]
 - [[Python FAQ]]
 - [Package Manager - pipenv](Package%20Manager%20-%20pipenv.md)
 

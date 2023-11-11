@@ -1,5 +1,5 @@
 # Streamlit
-[Streamlit-Code-Snips](Notes/Streamlit-Notes/Streamlit-Code-Snips.md)
+[Streamlit-Code-Snips](Streamlit-Code-Snips.md)
 
 **Fast prototyping** of web-application for data dashboarding / projects demos
 

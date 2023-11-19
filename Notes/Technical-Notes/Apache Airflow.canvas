@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"83c3a8cec5565c30","type":"group","x":540,"y":-1500,"width":1540,"height":480,"label":"Architecture"},
+		{"id":"4a3434a672f86ecb","type":"text","text":"# Introduction \n\n- started by Airbnb in 2014\n- AIRbnb + WorkFLOW = AIRFLOW\n- **workflow orchestration/management** tool \n- open source \n","x":-1209,"y":-1790,"width":403,"height":250},
+		{"id":"c91788191ee42173","type":"text","text":"# Why Airflow ? \n\n- Orchestration with dependencies \n- Monitoring \n- Scalability ","x":-1209,"y":-1485,"width":403,"height":205},
+		{"id":"dec7ac720e9ccd47","type":"text","text":"# Questions : \n\n- **Sensor Task** ???\n- **Connections** \n- Deployment \n- Notification ","x":-1209,"y":-1239,"width":339,"height":219},
+		{"id":"99e33f12892a426d","type":"text","text":"# Resources :\n\n- Base : \n\t- [The Newcomer's Guide to Airflow's Architecture](https://www.youtube.com/watch?v=oLTMN-4Rvj8&ab_channel=ApacheAirflow)\n\t- [Apache Airflow Architecture 101](https://www.youtube.com/watch?v=lVS6lz5wuH4&ab_channel=BryanCafferky)  \n\t- [Don't Use Apache Airflow](https://www.youtube.com/watch?v=YQ056EKzCyw&ab_channel=BryanCafferky) : Overview & limitations \n- Advance : \n\t- [Deep dive into Airflow Kubernetes Pod Operator vs Executor](https://www.youtube.com/watch?v=b1gpbGB058M&ab_channel=MaxcoTecLearning)\n\t- \n","x":-1209,"y":-1000,"width":620,"height":340},
+		{"id":"7ac4dab9830fb4ad","type":"text","text":"# Apache Airflow \n\n","x":-719,"y":-1277,"width":260,"height":60},
+		{"id":"18840c2cc2711727","type":"text","text":"# Concepts : \n\n- **Workflow** : Directed Acyclic Graphs (**DAGs**) \n- **Task**, **Dependency** : Nodes, Edges \n\t- Downstream Task -> Upstream Task\n- **Operators** : `BashOperator`, `PythonOperator`\n\n**Operator** determines what is going to be done, a **task** implements an operator by defining specific parameters, **DAG** collection of all tasks organized in a way that reflect their relationship and dependencies.\n\n**Execution Date** \n**Task Instance** : task run at a specific point of time (execution date)\n**DAG Run** : instance of DAG which contains collection of task instances  \n\nTask Lifecycle \nArchitecture 101 \n\n\n\n","x":-420,"y":-1918,"width":700,"height":1115},
+		{"id":"621428cf27ae644a","type":"file","file":"Notes/Technical-Notes/attachments/Pasted image 20231115143146.png","x":560,"y":-1480,"width":610,"height":398},
+		{"id":"a58889252196b434","type":"file","file":"Notes/Technical-Notes/attachments/Pasted image 20231115151606.png","x":1200,"y":-1480,"width":860,"height":398},
+		{"id":"b5c940b200ec566b","type":"file","file":"Notes/Technical-Notes/attachments/Pasted image 20231115150410.png","x":540,"y":-1980,"width":1011,"height":380}
+	],
+	"edges":[
+		{"id":"2026e7a1ad5ef087","fromNode":"7ac4dab9830fb4ad","fromSide":"left","toNode":"4a3434a672f86ecb","toSide":"right"},
+		{"id":"a9d408b7e5a1b637","fromNode":"4a3434a672f86ecb","fromSide":"bottom","toNode":"c91788191ee42173","toSide":"top"},
+		{"id":"73bd0e1e2d01a1fe","fromNode":"7ac4dab9830fb4ad","fromSide":"top","toNode":"18840c2cc2711727","toSide":"left"},
+		{"id":"c646cb88528660d7","fromNode":"7ac4dab9830fb4ad","fromSide":"bottom","toNode":"99e33f12892a426d","toSide":"top"},
+		{"id":"c97d7abbfbd0303c","fromNode":"7ac4dab9830fb4ad","fromSide":"left","toNode":"dec7ac720e9ccd47","toSide":"right"},
+		{"id":"aae54d99c59235fe","fromNode":"18840c2cc2711727","fromSide":"right","toNode":"b5c940b200ec566b","toSide":"left","label":"Task Lifecycle"},
+		{"id":"8ef6fd9b6d9a4806","fromNode":"18840c2cc2711727","fromSide":"right","toNode":"83c3a8cec5565c30","toSide":"left","label":"Architecture 101"}
+	]
+}

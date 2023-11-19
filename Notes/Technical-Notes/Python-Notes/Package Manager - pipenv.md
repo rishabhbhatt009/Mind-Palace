@@ -10,6 +10,8 @@ pipenv shell 			# start virtual environment (cd path/to/your/project)
 pipenv --venv 			# determine the venv path
 
 pipenv install PACKAGE 	# install specific package
+pipenv install PACKAGE --dev 
+pipenv install PACKAGE --production
 # Note : install packages + modify Pipfile and PipFile.lock
 pipenv install 			# install dependencies from Pipfile.lock
 # Note : install packages (does not modify Pipfile and PipFile.lock)

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f2ec8366ee843bd",
+        "id": "4e5df981373852d1",
         "type": "tabs",
         "children": [
           {
-            "id": "3a91bdfdfc318176",
+            "id": "a31d589184d59179",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Technical-Notes/Apache Airflow.md",
-                "mode": "preview",
+                "file": "Notes/Technical-Notes/Apache Parquet.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -29,7 +29,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d0632d9894344d26",
+        "id": "dad60213cc38585b",
         "type": "tabs",
         "children": [
           {
@@ -40,6 +40,20 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "f6c91c8c3d871d72",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Technical-Notes/!Tech-Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
@@ -64,23 +78,9 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "4f31b2670f1643f2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Technical-Notes/!Tech-Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Technical-Notes/Apache Airflow.md",
+                "file": "Notes/Technical-Notes/Apache Parquet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Technical-Notes/Apache Airflow.md",
+                "file": "Notes/Technical-Notes/Apache Parquet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Technical-Notes/Apache Airflow.md"
+                "file": "Notes/Technical-Notes/Apache Parquet.md"
               }
             }
           }
@@ -163,36 +163,49 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3a91bdfdfc318176",
+  "active": "a31d589184d59179",
   "lastOpenFiles": [
     "Notes/Technical-Notes/!Tech-Notes.md",
-    "Notes/Technical-Notes/Python-Notes/logging.md",
-    "Notes/Technical-Notes/Python-Notes/decorators.md",
-    "Notes/Technical-Notes/Python-Notes/collections.md",
-    "Notes/Technical-Notes/Python-Notes/!Python Core.md",
-    "Notes/Technical-Notes/Apache Airflow.md",
-    "Notes/Technical-Notes/Streamlit-Notes/Streamlit-Code-Snips.md",
-    "Notes/Technical-Notes/Streamlit-Notes/!Streamlit.md",
-    "Notes/Technical-Notes/API.md",
-    "Notes/Technical-Notes/REST API.md",
-    "Notes/Technical-Notes/jekyll.md",
-    "Notes/Technical-Notes/Java Script.md",
-    "Notes/Technical-Notes/Cloud.md",
-    "Notes/Technical-Notes/Cron.md",
-    "Notes/Daily-Routine.md",
-    "Notes/Vision Board.canvas",
-    "Index.md",
-    "Notes/Technology-Stack.canvas",
-    "Notes/Technical-Notes/Python-Notes/Problem with Mutable Default Arguments in Functions.md",
-    "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
-    "Notes/Technical-Notes/Python-Notes/Package Manager - pipenv.md",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Creating a copy of list.md",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Function type and execution order.md",
+    "Notes/Technical-Notes/Apache Parquet.md",
     "Notes/Technical-Notes/Python-Notes/FAQ/Comparing objects.md",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Time Complexity of pop() and why dequeue is important.md",
+    "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
+    "Notes/Technical-Notes/Python-Notes/!Python Core.md",
+    "Notes/Vision Board.canvas",
+    "Untitled.md",
+    "attachments/Pasted image 20231119002332.png",
+    "Notes/attachments/Pasted image 20231118115714.png",
+    "Notes/Philosophy.md",
+    "Notes/Technical-Notes/Apache Airflow.canvas",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115150410.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115151606.png",
+    "Notes/Technical-Notes/Python-Notes/Package Manager - pipenv.md",
+    "Notes/Technical-Notes/Linux-Command-Line.md",
+    "Notes/Technical-Notes/Docker-Notes/Docker-Commands.md",
+    "Notes/Technical-Notes/Docker-Notes/!Docker.md",
+    "Notes/Technical-Notes/Cron.md",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115151516.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115151434.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115144338.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115143146.png",
+    "Notes/Technical-Notes/attachments",
     "Notes/Technical-Notes/Python-Notes/FAQ/Variable Scope.md",
-    "Notes/Technical-Notes/Python-Notes/test-driven-development.md",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Binary Operations + Base Conversion.md",
+    "Notes/Technical-Notes/Python-Notes/nonlocal and global.md",
+    "Notes/Technical-Notes/Python-Notes/Closure.md",
+    "Notes/Technical-Notes/Python-Notes/Problem with Mutable Default Arguments in Functions.md",
+    "Notes/Technical-Notes/GitHub-Notes/!GitHub-Documentation.md",
+    "Notes/Technical-Notes/GitHub-Notes/github-pages.md",
+    "Notes/Technical-Notes/GitHub-Notes/Command-Database.md",
+    "Notes/Technical-Notes/GitHub-Notes/How to pull latest changes to your local.md",
+    "Notes/Technical-Notes/GitHub-Notes/How to create and share your SSH key.md",
+    "Notes/Technical-Notes/Apache Airflow.md",
+    "Notes/Technical-Notes/Untitled",
+    "Notes/Technical-Notes/Python-Notes/collections.md",
+    "Notes/Technical-Notes/Python-Notes/attachments/Pasted image 20231114081949.png",
+    "Notes/Technical-Notes/Python-Notes/attachments",
+    "Notes/Technical-Notes/Django-Notes/!Django.md",
+    "Notes/Technical-Notes/Python-Notes/Object Oriented Programming.md",
+    "Notes/Technical-Notes/Python-Notes/FAQ/Time Complexity of pop() and why dequeue is important.md",
+    "Notes/Technology-Stack.canvas",
     "Creating a copy of list (Shallow v",
     "Notes/Technical-Notes/Python-Notes/FAQ",
     "Notes/Technical-Notes/Python-Notes/Python Core",
@@ -200,26 +213,13 @@
     "Notes/Building-Resume.canvas",
     "Notes/Technical-Notes/AWS",
     "Notes/attachments/Pasted image 20231101072842.png",
-    "Notes/attachments/Pasted image 20231101072543.png",
-    "Notes/attachments/Pasted image 20231101065857.png",
-    "Notes/attachments/Pasted image 20231101065449.png",
-    "Notes/attachments/Pasted image 20231101065320.png",
-    "Notes/attachments/Pasted image 20231101065233.png",
     "Notes/Job Applications.canvas",
     "Notes/Pharma-Consulting/Patient Journey.sql",
     "Notes/Pharma-Consulting",
     "Notes/Technical-Notes/SQL-Notes/resources/Window_Functions_Cheat_Sheet.pdf",
-    "Notes/Technical-Notes/SQL-Notes/resources/sql-join-chart-custom-poster-size-sql.png",
-    "Notes/Technical-Notes/SQL-Notes/resources/sql-basics-cheat-sheet-a4.pdf",
-    "Notes/Technical-Notes/SQL-Notes/resources/Screenshot 2023-05-13 014302.png",
-    "Notes/Technical-Notes/SQL-Notes/resources/Screenshot 2023-05-13 002749.png",
-    "Notes/Technical-Notes/SQL-Notes/resources/pivot_result.png",
-    "Notes/Technical-Notes/SQL-Notes/resources/joins-cheat-sheet-a4.pdf",
-    "Notes/Technical-Notes/SQL-Notes/resources",
     "Untitled 1.canvas",
     "Notes/Books/Fundamentals of Data Engineering.canvas",
     "Notes/Books/The 12 Week Year.canvas",
-    "Notes/Books/Think-And-Grow-Rich.canvas",
-    "Notes/Tech Stack.canvas"
+    "Notes/Books/Think-And-Grow-Rich.canvas"
   ]
 }

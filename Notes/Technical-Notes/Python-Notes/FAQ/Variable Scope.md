@@ -9,10 +9,13 @@
 	4. **Built-in Scope**: preassigned in the built-in namespace provided by Python.
 
 --- 
+## Python's scope resolution rule : 
+
 - Python uses the **LEGB rule (Local, Enclosing, Global, Built-in)** to resolve names:
 	- When you use an unqualified name inside a function, Python searches up to four scopes : #1 local (L) namespace, #2 local namespaces of any enclosing (E) functions and lambdas, #3 global (G) namespace, #4 the built-in (B) namespace. It **stops at the first place the name is found**
 	- When you assign a value to a name inside a function (without using `global` or `nonlocal`), it always creates or changes the name in the local namespace.
-	- When you assign a value to a name outside any function or class, it is in the global scope.
+	- **Note :** You can modify a mutable enclosing variable without `nonlocal` 
+	- When you assign a value to a name outside any function or class, it is in the **global scope**
 
 >[!Note] 
 >Unlike some other languages, Python does not have block scope for loops or conditionals (`if`, `elif`, `else`, `while`, `for`). This means that a variable defined within a loop is accessible outside the loop as well. Scope of the variable is based on function/global.

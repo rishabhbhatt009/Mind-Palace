@@ -17,12 +17,12 @@
 
 - [[Creating a copy of list]] : Shallow v/s Deep Copy
 - [Variable Scope](Variable%20Scope.md)
+- [[Closure]] ***
 - [[Bitwise operations in python]] 
 - [[Function type and execution order]]
 - [[Comparing objects]] : Difference b/w `obj1==obj2`, `obj1 is obj2`, `id(obj1) == id(obj2)`
 - [[Time Complexity of pop() and why dequeue is important]]
 - [[Problem with Mutable Default Arguments in Functions]] : `def func(a=1,b=[])`
-- [[Closure]] 
 - [[nonlocal and global]]
 
 - [[Dataclass]]

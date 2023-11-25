@@ -6,7 +6,7 @@
 		{"id":"bf034e021febc7a8","type":"file","file":"Notes/Daily-Routine.md","x":-959,"y":-380,"width":780,"height":390},
 		{"type":"text","text":"> [!quote] \n> # By the 1st of April 2024, I will start working in Google as a Software Development Engineer. \n> # In return I will dedicate myself to learn, grow and become a better engineer and help them become a better organization.\n\n> [!quote] \n> # **What do I want ?** Work at one of the best tech companies\n> # **Why ?** I want to surround myself with individuals / work that is at the forefront \n","id":"ab50a4a2fea823f5","x":-958,"y":240,"width":780,"height":620},
 		{"type":"file","file":"Notes/attachments/Pasted image 20230909163059.png","id":"f594be6f81206974","x":-743,"y":60,"width":349,"height":130},
-		{"id":"a112327ae55c511c","x":-1680,"y":920,"width":548,"height":340,"type":"file","file":"Notes/attachments/Pasted image 20231118115714.png"}
+		{"id":"a112327ae55c511c","type":"file","file":"Notes/attachments/Pasted image 20231118115714.png","x":-1680,"y":920,"width":548,"height":340}
 	],
 	"edges":[
 		{"id":"8c042f9a749a3c32","fromNode":"bf034e021febc7a8","fromSide":"bottom","toNode":"f594be6f81206974","toSide":"top"},

@@ -13,16 +13,29 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Notes/Vision Board.canvas",
+                "file": "Notes/Technical-Notes/C++/_C++.canvas",
                 "viewState": {
-                  "x": -320.4101986214465,
-                  "y": 452.99822493919703,
-                  "zoom": -0.7909490989418708
+                  "x": -325.75824175824175,
+                  "y": 50,
+                  "zoom": -0.16463070177279923
                 }
               }
             }
+          },
+          {
+            "id": "c1860b78bfca1698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "63c94c117a166c8a",
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Vision Board.canvas",
+                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Vision Board.canvas",
+                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Vision Board.canvas"
+                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md"
               }
             }
           }
@@ -152,63 +164,62 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f31b2670f1643f2",
+  "active": "c1860b78bfca1698",
   "lastOpenFiles": [
+    "Notes/Technical-Notes/C++/_C++.canvas",
     "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
-    "Notes/Technical-Notes/Python-Notes/!Python Core.md",
-    "Notes/Technical-Notes/!Tech-Notes.md",
-    "Notes/Technical-Notes/Jekyll.md",
-    "Notes/Technical-Notes/jekyll.md",
-    "Notes/Technical-Notes/Linux/Accessing-EC2-Users.md",
-    "Notes/Technical-Notes/Linux/Cobot Environment Setup.md",
-    "Notes/Technical-Notes/Linux/Giving user access to EC2 machine.md",
-    "Notes/Technical-Notes/Linux/open.url",
-    "Notes/Technical-Notes/Linux/Transferring-files-local-EC2.md",
-    "Notes/Technical-Notes/Linux/Terminal-Customization.md",
-    "Notes/Technical-Notes/Linux/WSL-Windows.md",
-    "Notes/Technical-Notes/Linux",
-    "Notes/Technical-Notes/Python-Notes/Closure.md",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Function type and execution order.md",
-    "Notes/Technical-Notes/Apache Airflow.canvas",
-    "Notes/Technical-Notes/attachments/AstroMonogram.svg",
-    "Notes/Technical-Notes/Apache Parquet.md",
-    "Notes/Technical-Notes/attachments/Pasted image 20231119055732.png",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Comparing objects.md",
-    "Notes/Vision Board.canvas",
-    "Untitled.md",
-    "attachments/Pasted image 20231119002332.png",
-    "Notes/attachments/Pasted image 20231118115714.png",
-    "Notes/Philosophy.md",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115150410.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115151606.png",
-    "Notes/Technical-Notes/Python-Notes/Package Manager - pipenv.md",
-    "Notes/Technical-Notes/Linux/Linux-Command-Line.md",
-    "Notes/Technical-Notes/Docker-Notes/Docker-Commands.md",
-    "Notes/Technical-Notes/Docker-Notes/!Docker.md",
-    "Notes/Technical-Notes/Cron.md",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115151516.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115151434.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115144338.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115143146.png",
-    "Notes/Technical-Notes/attachments",
-    "Notes/Technical-Notes/Python-Notes/FAQ/Variable Scope.md",
-    "Notes/Technical-Notes/Python-Notes/nonlocal and global.md",
-    "Notes/Technical-Notes/Python-Notes/Problem with Mutable Default Arguments in Functions.md",
-    "Notes/Technical-Notes/GitHub-Notes/!GitHub-Documentation.md",
-    "Notes/Technical-Notes/Python-Notes/attachments",
+    "Notes/Technical-Notes/Python-Notes/attachments/Pasted image 20231130222757.png",
+    "Notes/Technical-Notes/Python-Notes/_Python.md",
+    "Notes/Technical-Notes/C++/_C++.md",
+    "Notes/Technical-Notes/Obsidian.md",
+    "Notes/Technical-Notes/JavaScript/_JavaScript.md",
+    "Notes/Technical-Notes/JavaScript",
+    "Notes/Technical-Notes/_Tech-Notes.md",
+    "Notes/Technical-Notes/Streamlit-Notes/_Streamlit.md",
+    "Notes/Technical-Notes/SQL-Notes/_SQL.md",
+    "Notes/Technical-Notes/Django-Notes/_Django.md",
     "Notes/Technology-Stack.canvas",
-    "Creating a copy of list (Shallow v",
-    "Notes/Technical-Notes/Python-Notes/FAQ",
-    "Notes/Technical-Notes/Python-Notes/Python Core",
-    "Notes/Workout.canvas",
-    "Notes/Building-Resume.canvas",
-    "Notes/Technical-Notes/AWS",
+    "Notes/Technical-Notes/C++",
+    "Notes/Vision Board.canvas",
+    "Notes/resources.md",
+    "Notes/Technical-Notes/Programming Paradigms.md",
+    "Notes/Technical-Notes/AWS/Cloud.md",
+    "Notes/Technical-Notes/Data Engineering",
+    "Notes/attachments/Pasted image 20231118115714.png",
+    "Notes/Project Ideas.md",
+    "Notes/attachments/Pasted image 20231101072842.png",
+    "Notes/attachments/1605081-UdhavAnand.pdf",
+    "attachments/Pasted image 20231026081637.png",
+    "attachments/Pasted image 20231026082349.png",
+    "attachments/Pasted image 20231119002332.png",
+    "Notes/Technical-Notes/Data Engineering/Apache Airflow.canvas",
+    "Notes/Personal Development/Learning Plan.md",
+    "Notes/Technical-Notes/API Development/API Development.md",
+    "Notes/Technical-Notes/API Development/API.md",
+    "Notes/Technical-Notes/API Development/REST API.md",
+    "Notes/Technical-Notes/Data Engineering/Cron.md",
+    "Notes/Technical-Notes/API Development",
     "Notes/Job Applications.canvas",
-    "Notes/Pharma-Consulting/Patient Journey.sql",
-    "Notes/Pharma-Consulting",
+    "Notes/Personal Development/Finance + Budgeting.md",
+    "Notes/Technical-Notes/attachments/Pasted image 20231126221438.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231126221311.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231126221302.png",
+    "Notes/FPL.md",
+    "Notes/Technical-Notes/GitHub-Notes/!GitHub-Documentation.md",
+    "Notes/Technical-Notes/GitHub-Notes/Command-Database.md",
+    "Notes/Personal Development/Daily-Routine.md",
+    "ReadMe.md",
+    "Notes/Youtube-Archive.md",
+    "Notes/Personal Development/Building-Resume.canvas",
+    "Notes/Personal Development",
+    "Notes/Technical-Notes/Linux/open.url",
+    "Notes/Technical-Notes/Linux",
+    "Notes/Technical-Notes/attachments/AstroMonogram.svg",
+    "Notes/Technical-Notes/attachments",
+    "Notes/Technical-Notes/Python-Notes/attachments",
+    "Notes/Workout.canvas",
     "Untitled 1.canvas",
     "Notes/Books/Fundamentals of Data Engineering.canvas",
-    "Notes/Books/The 12 Week Year.canvas",
-    "Notes/Books/Think-And-Grow-Rich.canvas"
+    "Notes/Books/The 12 Week Year.canvas"
   ]
 }

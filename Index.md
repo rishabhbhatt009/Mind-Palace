@@ -11,10 +11,10 @@ My notes and board
 - [Technology-Stack](Notes/Technology-Stack.canvas)
 
 ----
-- [Philosophy](Notes/Philosophy.md)
+- [Philosophy](Philosophy.md)
 - [Project Ideas](Notes/Project%20Ideas.md)
 - [[FPL]]
 - [resources](Notes/resources.md)
-- [Finance + Budgeting](Notes/Finance%20+%20Budgeting.md)
+- [Finance + Budgeting](Finance%20+%20Budgeting.md)
 
 ---

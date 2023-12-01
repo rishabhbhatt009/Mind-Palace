@@ -1,13 +1,12 @@
 # Project Ideas and Learning 
 
 ---
-### Explore
-
 - Ideas to work on : 
+	- [ ] Full Stack Project by NeetCode 
+	- [ ] Full Stack Course by Harkirat 
 	- [x] Chrome Extension : 
 		- [x] prerequisite : good knowledge of HTML, CSS, JS
 		- [x] get all urls from open tabs and save as txt file, open all urls from a text file 
-	- [ ] Full Stack Project by NeetCode 
 	- [ ] Deploying your own resume 
 	- [ ] **Budgeting App** : Application to analyze Bank Statements locally 
 	- [ ] FPL API : [Guide link](https://www.game-change.co.uk/2023/02/10/a-complete-guide-to-the-fantasy-premier-league-fpl-api/)
@@ -21,20 +20,3 @@
 	- [ ] Riding a Long Board 
 
 ---
-### Learn 
-
-- [x] Dashboarding / Quick Prototyping Web App (Streamlit)
-- [x] Django Course 1,2,3
-- [x] Docker Course 
-- [ ] Rust
-- [ ] Deployment 
-- [ ] Kubernetes 
-- [ ] Java Script
-
----
-
-## [Job Applications](Notes/Job%20Applications.canvas)
-## [Technology-Stack](Notes/Technology-Stack.canvas)
-## [Finance + Budgeting](Notes/Finance%20+%20Budgeting.md)
-
-

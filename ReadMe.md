@@ -21,6 +21,6 @@ Workflow Design
 
 ---
 Documentations
-- [SQL](Notes/SQL-Notes/!SQL.md)
+- [SQL](_SQL.md)
 - [Django](Notes/Django-Notes/Django.md)
 - 

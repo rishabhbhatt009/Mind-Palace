@@ -12,3 +12,6 @@ Ideas :
 
 Poem : 
 - [Thinking - by Walter D Wintle](https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle)
+
+
+![](Pasted%20image%2020231118115714.png)

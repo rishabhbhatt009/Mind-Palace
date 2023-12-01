@@ -8,5 +8,9 @@
 ---
 ## Investment Strategy 
 
+- invest in S&P500
+- be aware of alot of profit -> market sets trap 
+- options trading ? avoid
+
 
 ---

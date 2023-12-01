@@ -37,7 +37,7 @@ ORDER BY col_name
 Note : `PARTITION BY`, `ORDER BY`, and `window frame` definition are all optiona
 
 ### Window Functions :
-- [Aggregate Functions](Notes/SQL-Notes/!SQL.md#aggregation-functions) 
+- [Aggregate Functions](_SQL.md#aggregation-functions) 
   - all aggregation functions which were defined can be used as window functions
 
 - Analytic Functions 

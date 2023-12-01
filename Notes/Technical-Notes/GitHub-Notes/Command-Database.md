@@ -13,8 +13,9 @@
 - **ADD files to staging area** : `git add <file1> <file2> | <.> | <*.txt>`
 	- - `<.>` : all files 
 	- `<*.txt>` : all files with .txt extension
-	- git add advance : `<-p>` flag to select pieces you want to add instead of entire document 
-	- [?] Un-staging :
+- **ADD parts of files :** `git add -p <file1>`
+- git add advance : `<-p>` flag to select pieces you want to add instead of entire document 
+- [?] Un-staging :
 - **creates a new commit** : `git commit <-m> "message" <-a>`
 	- `-m` : short message
 	- `-a` : commit all changes 

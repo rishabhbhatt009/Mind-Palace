@@ -14,7 +14,7 @@
 	- [Connecting with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) 
 	- [[Notes/GitHub-Notes/How to pull latest changes to your local]]
 	- [[Notes/GitHub-Notes/How-to-review-Pull-Request]] 
-	- 
+	- Add parts of a file with interactive add 
 4. Links
 	- 
 

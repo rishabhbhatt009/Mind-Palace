@@ -12,3 +12,4 @@
 ---
 Articles : 
 - [Time Complexity of Python Operations](https://wiki.python.org/moin/TimeComplexity) 
+- [How Modulo works in different languages](https://en.wikipedia.org/wiki/Modulo)

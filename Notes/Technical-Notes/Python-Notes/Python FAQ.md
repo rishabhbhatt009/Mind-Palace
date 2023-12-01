@@ -12,6 +12,9 @@
 - `''.split()` : 
 	- `print('$$$'.split('$'))` -> `['', '', '', '']`
 - reversing a string/list -> `lst[::-1]` = `lst[-1::-1]` = `lst[-1:-len(lst)-1:-1]`
+- modulo is **floored** and has the same sign as denominator in python. It works with both int and float values 
+  ![](Pasted%20image%2020231130222757.png)
+- 
 
 ---
 

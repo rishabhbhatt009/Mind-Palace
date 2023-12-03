@@ -15,27 +15,14 @@
               "state": {
                 "file": "Notes/Technical-Notes/C++/_C++.canvas",
                 "viewState": {
-                  "x": -325.75824175824175,
-                  "y": 50,
-                  "zoom": -0.16463070177279923
+                  "x": 42.110489297391666,
+                  "y": -30.88204875612621,
+                  "zoom": -0.49796403510613246
                 }
               }
             }
-          },
-          {
-            "id": "c1860b78bfca1698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
+                "file": "Notes/Technical-Notes/C++/_C++.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
+                "file": "Notes/Technical-Notes/C++/_C++.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Technical-Notes/Python-Notes/Python FAQ.md"
+                "file": "Notes/Technical-Notes/C++/_C++.canvas"
               }
             }
           }
@@ -164,10 +151,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1860b78bfca1698",
+  "active": "4f31b2670f1643f2",
   "lastOpenFiles": [
-    "Notes/Technical-Notes/C++/_C++.canvas",
     "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
+    "Notes/Technical-Notes/C++/_C++.canvas",
     "Notes/Technical-Notes/Python-Notes/attachments/Pasted image 20231130222757.png",
     "Notes/Technical-Notes/Python-Notes/_Python.md",
     "Notes/Technical-Notes/C++/_C++.md",

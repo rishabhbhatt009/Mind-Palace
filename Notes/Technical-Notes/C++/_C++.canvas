@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"cde599bc59979f97","x":-840,"y":-460,"width":820,"height":1020,"type":"text","text":"Part 1 : Basics\n\n- C++ Syntax\n- C++ Standard Library : Data Structures (list, map), Algorithms (searching, sorting)\n- How do we compile and run C++code ? \n\t- `C++ Code` compiled into -> `Machine Code` (OS Specific)\n\t- \n\n\n  \n  \n"},
-		{"id":"77d22f64da3175f5","x":80,"y":-460,"width":614,"height":332,"type":"text","text":"Part 2 : Intermediate\n\n  \n  \n\n---\nPart 3 : Advance"}
+		{"id":"cde599bc59979f97","type":"text","text":"# Basics\n\n\n\n  \n  \n","x":-840,"y":-460,"width":820,"height":1020}
 	],
 	"edges":[]
 }

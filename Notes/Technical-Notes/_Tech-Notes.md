@@ -14,5 +14,7 @@
 	- [logging](logging.md)
 ---
 - [[API Development]]
-- [[Programming paradigms]]
-- 
+- [Data Modeling](Data%20Modeling.md)
+- [[Programming Paradigms]]
+
+---

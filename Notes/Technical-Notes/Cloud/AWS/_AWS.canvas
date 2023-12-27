@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cfe47ea39fc8250e","x":-360,"y":-620,"width":360,"height":80,"type":"text","text":"# Amazon Web Service "},
+		{"id":"70ead79fb9d117c2","x":238,"y":-1134,"width":742,"height":400,"type":"file","file":"Notes/Technical-Notes/Cloud/AWS/Redshift.md"},
+		{"id":"1f2deef50a16355c","x":-940,"y":-460,"width":640,"height":560,"type":"text","text":"# Application \n\n- Data Warehousing -> Redshift \n- Cloud Compute -> EC2\n"},
+		{"id":"ee324a641f0ece19","x":238,"y":-660,"width":742,"height":640,"type":"text","text":"# Misc. Services \n\nSQS : Simple Queue Service \n - Terms : Queues, Messages, Polling\n - Poller owns the que\n - Why : async queue, separation of concerns, holding pool \n\nSNS : Simple Notification Service \n- Topics \n- Messages \n- Pub/Sub \n\nEvent Bridge / CloudWatch Events\n- Event/Message Bus\n- Event/Message \n- Rules \n- Targets"}
+	],
+	"edges":[
+		{"id":"8d1c90647a40801d","fromNode":"cfe47ea39fc8250e","fromSide":"left","toNode":"1f2deef50a16355c","toSide":"top"},
+		{"id":"3f657101a6b99794","fromNode":"cfe47ea39fc8250e","fromSide":"right","toNode":"70ead79fb9d117c2","toSide":"left"},
+		{"id":"22f556d89d7ff203","fromNode":"cfe47ea39fc8250e","fromSide":"right","toNode":"ee324a641f0ece19","toSide":"left"}
+	]
+}

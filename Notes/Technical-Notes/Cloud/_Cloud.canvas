@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a8481e6abd0d1f18","type":"file","file":"Notes/Technical-Notes/Cloud/attachments/Pasted image 20231205160934.jpg","x":-100,"y":-363,"width":286,"height":174},
+		{"id":"5bd84e532afc22cd","type":"text","text":"# Cloud Native Computing Foundation (CNCF)\n\n- CNCF -> Trail -> Landscape -> Projects \n- [CNCF Landscape](https://landscape.cncf.io/)\n- Projects Stages : Stage 1 -> Graduated -> Stage 2","x":400,"y":-760,"width":694,"height":198},
+		{"id":"d434a561fa163f78","type":"text","text":"# Architecture Designs\n\n## Monolithic Architecture v/s Microservices Architecture ","x":400,"y":-510,"width":694,"height":147},
+		{"id":"cee9c0a1c2f5a754","type":"text","text":"# Cloud Computing Service Models \n\n- IaaS = Infrastructure as a Service \n- PaaS = Platform as a Service\n- FaaS = Function as a Service\n- SaaS = Software as a Service\n\nOthers : \n- BaaS : Backend as a Service (Authentication Service, Object Storage)\n\n\n---\nResources : \n- [What is FaaS (Functions as a Service)? | IBM](https://www.youtube.com/watch?v=EOIja7yFScs&ab_channel=IBMTechnology)","x":-1100,"y":-755,"width":886,"height":491},
+		{"id":"4e4c8333926bfb33","type":"file","file":"Notes/Technical-Notes/Cloud/Serverless.md","x":-1100,"y":-104,"width":886,"height":960},
+		{"id":"8132a4caf3a108de","type":"file","file":"Notes/Technical-Notes/Docker-Notes/!Docker.md","x":1120,"y":-189,"width":855,"height":593},
+		{"id":"421865337e61abd7","type":"file","file":"Notes/Technical-Notes/Cloud/attachments/Pasted image 20231205173346.jpg","x":400,"y":-77,"width":245,"height":184},
+		{"id":"88976e18dec5d67b","type":"text","text":"# Kubernetes \n- Orchestrator ","x":1120,"y":506,"width":855,"height":225}
+	],
+	"edges":[
+		{"id":"36b5bd4ced7e916f","fromNode":"cee9c0a1c2f5a754","fromSide":"bottom","toNode":"4e4c8333926bfb33","toSide":"top","label":"FaaS"},
+		{"id":"7c0f81eba102cc15","fromNode":"a8481e6abd0d1f18","fromSide":"left","toNode":"cee9c0a1c2f5a754","toSide":"right"},
+		{"id":"98e8f7718e3108fb","fromNode":"a8481e6abd0d1f18","fromSide":"right","toNode":"d434a561fa163f78","toSide":"left"},
+		{"id":"bb5dfb6fa2e2e7cd","fromNode":"a8481e6abd0d1f18","fromSide":"right","toNode":"5bd84e532afc22cd","toSide":"left"},
+		{"id":"c06c59837cf32a9d","fromNode":"a8481e6abd0d1f18","fromSide":"right","toNode":"421865337e61abd7","toSide":"left"},
+		{"id":"aa4c17780f163733","fromNode":"421865337e61abd7","fromSide":"right","toNode":"8132a4caf3a108de","toSide":"left","label":"Containerization"},
+		{"id":"7c573088826eecd8","fromNode":"421865337e61abd7","fromSide":"right","toNode":"88976e18dec5d67b","toSide":"left","label":"Container \nOrchestration"}
+	]
+}

@@ -1,6 +1,13 @@
 {
 	"nodes":[
-		{"id":"cde599bc59979f97","type":"text","text":"# Basics\n\n\n\n  \n  \n","x":-840,"y":-460,"width":820,"height":1020}
+		{"id":"30b2963ce79aef47","type":"file","file":"Notes/Technical-Notes/C++/FAQ/_FAQ.md","x":949,"y":-458,"width":831,"height":1018},
+		{"id":"cde599bc59979f97","type":"text","text":"# Basics\n\n\n\n  \n  \n","x":-840,"y":-460,"width":820,"height":1020},
+		{"id":"5d697326b845f6a9","type":"file","file":"Notes/Technical-Notes/C++/attachments/Pasted image 20231204100606.png","x":-840,"y":980,"width":399,"height":315},
+		{"id":"e8b7803c4cb60a3a","type":"file","file":"Notes/Technical-Notes/C++/attachments/Pasted image 20231204100555.png","x":-840,"y":660,"width":432,"height":280},
+		{"id":"d2c8402c307d4300","type":"file","file":"Notes/Technical-Notes/C++/attachments/Pasted image 20231206064339.png","x":200,"y":-960,"width":356,"height":200},
+		{"id":"011ec4609b50544e","type":"file","file":"Notes/Technical-Notes/C++/Containers.md","x":80,"y":-460,"width":820,"height":1020}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"d73a0b4da0da2692","fromNode":"d2c8402c307d4300","fromSide":"left","toNode":"cde599bc59979f97","toSide":"top"}
+	]
 }

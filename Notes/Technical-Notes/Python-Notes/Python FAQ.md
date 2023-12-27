@@ -27,6 +27,7 @@
 - [[Time Complexity of pop() and why dequeue is important]]
 - [[Problem with Mutable Default Arguments in Functions]] : `def func(a=1,b=[])`
 - [[nonlocal and global]]
+- [[Private attributes, convention and name mangling]]
 
 - [[Dataclass]]
 - [[Binary Operations + Base Conversion]]

@@ -6,8 +6,8 @@
 	- Messaging and notification service
 - [ ] C++
 - [ ] HTML and CSS
-- [ ] Apache Spark 
 - [ ] Java Script
+- [ ] Apache Spark 
 
 Completed : 
 - [x] Django, DAF

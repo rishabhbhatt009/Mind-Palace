@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"file","file":"Notes/Books/!Books.md","id":"2814cca14b9faa33","x":-1680,"y":-480,"width":680,"height":880},
+		{"type":"file","file":"Notes/Books/Book Archive.md","id":"2814cca14b9faa33","x":-1680,"y":-480,"width":680,"height":880},
 		{"type":"file","file":"Notes/Personal Development/Philosophy.md","id":"a2c371f529d94049","x":-1680,"y":440,"width":680,"height":480},
 		{"id":"bf034e021febc7a8","type":"file","file":"Notes/Personal Development/Daily-Routine.md","x":-959,"y":-380,"width":780,"height":390},
 		{"type":"text","text":"> [!quote] \n> # By the 1st of April 2024, I will start working in Google as a Software Development Engineer. \n> # In return I will dedicate myself to learn, grow and become a better engineer and help them become a better organization.\n\n> [!quote] \n> # **What do I want ?** Work at one of the best tech companies\n> # **Why ?** I want to surround myself with individuals / work that is at the forefront \n","id":"ab50a4a2fea823f5","x":-958,"y":240,"width":780,"height":620},

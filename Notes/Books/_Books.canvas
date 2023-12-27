@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"299f862b25ccc739","type":"file","file":"Notes/Books/Book Wishlist.md","x":-160,"y":-620,"width":740,"height":500},
+		{"id":"b64cfe9f5098cfc1","type":"file","file":"Notes/Books/Book Archive.md","x":620,"y":-620,"width":740,"height":840},
+		{"id":"535cfb275a97ba34","type":"text","text":"# Book summaries \n\n- [The 12 Week Year](Notes/Books/The%2012%20Week%20Year.canvas) - by Brian P. Moran \n- [The Four Agreements](Notes/Books/The-Four-Agreements) - by Don Miguel Ruiz\n\n---","x":-160,"y":-100,"width":740,"height":320}
+	],
+	"edges":[]
+}

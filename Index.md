@@ -6,7 +6,7 @@ My notes and board
 ## Boards 
 
 - [Vision Board](Notes/Vision%20Board.canvas)
-- [Books](Notes/Books/!Books.md)
+- [Books](Book%20Archive.md)
 - [Job Applications](Notes/Job%20Applications.canvas)
 - [Technology-Stack](Notes/Technology-Stack.canvas)
 

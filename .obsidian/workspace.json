@@ -4,25 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "13e255cc0e6467db",
+        "id": "eabf2fe0226ca54d",
         "type": "tabs",
         "children": [
           {
-            "id": "4f31b2670f1643f2",
+            "id": "bcadee18bc2bee05",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Notes/Technical-Notes/C++/_C++.canvas",
                 "viewState": {
-                  "x": 42.110489297391666,
-                  "y": -30.88204875612621,
-                  "zoom": -0.49796403510613246
+                  "x": 154.59925878751395,
+                  "y": 64.33910311007085,
+                  "zoom": -0.4416737141665364
                 }
               }
             }
+          },
+          {
+            "id": "b422c8f3a96760f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Technical-Notes/C++/_C++.canvas",
+                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Technical-Notes/C++/_C++.canvas",
+                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Technical-Notes/C++/_C++.canvas"
+                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md"
               }
             }
           }
@@ -151,62 +164,63 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f31b2670f1643f2",
+  "active": "b422c8f3a96760f3",
   "lastOpenFiles": [
-    "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
+    "Notes/Technical-Notes/_Tech-Notes.md",
+    "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
+    "Notes/Technical-Notes/C++/Containers.md",
+    "Notes/Trips/India, Goa.canvas",
+    "Notes/Trips/Goa.md",
+    "Notes/Technical-Notes/C++/FAQ/_FAQ.md",
+    "Notes/Books/_Books.canvas",
+    "Notes/Trips",
     "Notes/Technical-Notes/C++/_C++.canvas",
-    "Notes/Technical-Notes/Python-Notes/attachments/Pasted image 20231130222757.png",
+    "Notes/Technical-Notes/C++/FAQ/Sorting a 2d based on custom function.md",
+    "Notes/Technical-Notes/C++/FAQ",
+    "Notes/Books/Book Wishlist.md",
+    "Notes/Books/Book Archive.md",
+    "Notes/Books/Fundamentals of Data Engineering.canvas",
+    "Notes/Technical-Notes/Cloud/AWS/_AWS.canvas",
+    "Notes/Technical-Notes/Cloud/AWS/Untitled.md",
+    "Notes/Technical-Notes/Cloud/_Cloud.canvas",
+    "Notes/Technical-Notes/Cloud/Serverless.md",
+    "Notes/Technical-Notes/Cloud/Cloud.md",
+    "Notes/FPL.md",
+    "Notes/Books/attachments/Pasted image 20231212002955.png",
+    "Notes/Books/attachments/Pasted image 20231212002920.png",
+    "Notes/Books/The-Four-Agreements.md",
+    "Notes/Books/Think-And-Grow-Rich.canvas",
+    "Notes/Books/Think-And-Grow-Rich.md",
+    "Notes/Books/Fundamentals of Data Engineering.md",
+    "Notes/Vision Board.canvas",
+    "Notes/Technology-Stack.canvas",
+    "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064423.jpg",
+    "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064339.png",
+    "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064327.png",
+    "Notes/Technical-Notes/Docker-Notes/!Docker.md",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115151606.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115143146.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231115150410.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231119055732.png",
+    "Notes/Technical-Notes/attachments/Pasted image 20231126221302.png",
+    "Notes/Technical-Notes/Cloud/attachments",
+    "Notes/Technical-Notes/Cloud/AWS",
+    "Notes/Technical-Notes/Cloud/AWS/Redshift.md",
+    "Notes/Technical-Notes/Python-Notes/Private attributes, convention and name mangling.md",
+    "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
+    "Notes/Technical-Notes/Programming Paradigms/Object Oriented Programming.md",
+    "Notes/Technical-Notes/Programming Paradigms/attachments",
+    "Notes/Technical-Notes/Programming Paradigms/Programming Paradigms.md",
+    "Notes/Technical-Notes/Programming Paradigms",
     "Notes/Technical-Notes/Python-Notes/_Python.md",
+    "Notes/Technical-Notes/C++/attachments",
     "Notes/Technical-Notes/C++/_C++.md",
     "Notes/Technical-Notes/Obsidian.md",
     "Notes/Technical-Notes/JavaScript/_JavaScript.md",
     "Notes/Technical-Notes/JavaScript",
-    "Notes/Technical-Notes/_Tech-Notes.md",
     "Notes/Technical-Notes/Streamlit-Notes/_Streamlit.md",
-    "Notes/Technical-Notes/SQL-Notes/_SQL.md",
-    "Notes/Technical-Notes/Django-Notes/_Django.md",
-    "Notes/Technology-Stack.canvas",
     "Notes/Technical-Notes/C++",
-    "Notes/Vision Board.canvas",
-    "Notes/resources.md",
-    "Notes/Technical-Notes/Programming Paradigms.md",
-    "Notes/Technical-Notes/AWS/Cloud.md",
     "Notes/Technical-Notes/Data Engineering",
-    "Notes/attachments/Pasted image 20231118115714.png",
-    "Notes/Project Ideas.md",
-    "Notes/attachments/Pasted image 20231101072842.png",
-    "Notes/attachments/1605081-UdhavAnand.pdf",
-    "attachments/Pasted image 20231026081637.png",
-    "attachments/Pasted image 20231026082349.png",
-    "attachments/Pasted image 20231119002332.png",
-    "Notes/Technical-Notes/Data Engineering/Apache Airflow.canvas",
-    "Notes/Personal Development/Learning Plan.md",
-    "Notes/Technical-Notes/API Development/API Development.md",
-    "Notes/Technical-Notes/API Development/API.md",
-    "Notes/Technical-Notes/API Development/REST API.md",
-    "Notes/Technical-Notes/Data Engineering/Cron.md",
-    "Notes/Technical-Notes/API Development",
-    "Notes/Job Applications.canvas",
-    "Notes/Personal Development/Finance + Budgeting.md",
-    "Notes/Technical-Notes/attachments/Pasted image 20231126221438.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231126221311.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231126221302.png",
-    "Notes/FPL.md",
-    "Notes/Technical-Notes/GitHub-Notes/!GitHub-Documentation.md",
-    "Notes/Technical-Notes/GitHub-Notes/Command-Database.md",
-    "Notes/Personal Development/Daily-Routine.md",
-    "ReadMe.md",
-    "Notes/Youtube-Archive.md",
-    "Notes/Personal Development/Building-Resume.canvas",
-    "Notes/Personal Development",
-    "Notes/Technical-Notes/Linux/open.url",
-    "Notes/Technical-Notes/Linux",
-    "Notes/Technical-Notes/attachments/AstroMonogram.svg",
-    "Notes/Technical-Notes/attachments",
-    "Notes/Technical-Notes/Python-Notes/attachments",
-    "Notes/Workout.canvas",
-    "Untitled 1.canvas",
-    "Notes/Books/Fundamentals of Data Engineering.canvas",
-    "Notes/Books/The 12 Week Year.canvas"
+    "Notes/Technical-Notes/Data Engineering/Apache Airflow.canvas"
   ]
 }

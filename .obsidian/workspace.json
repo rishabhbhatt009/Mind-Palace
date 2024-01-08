@@ -4,38 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eabf2fe0226ca54d",
+        "id": "b4692612ce3c1df9",
         "type": "tabs",
         "children": [
           {
-            "id": "bcadee18bc2bee05",
+            "id": "15e4e1709283e68a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notes/Technical-Notes/C++/_C++.canvas",
-                "viewState": {
-                  "x": 154.59925878751395,
-                  "y": 64.33910311007085,
-                  "zoom": -0.4416737141665364
-                }
-              }
-            }
-          },
-          {
-            "id": "b422c8f3a96760f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Technical-Notes/Data Engineering/Data Modeling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,17 +140,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b422c8f3a96760f3",
+  "active": "15e4e1709283e68a",
   "lastOpenFiles": [
-    "Notes/Technical-Notes/_Tech-Notes.md",
-    "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
-    "Notes/Technical-Notes/C++/Containers.md",
     "Notes/Trips/India, Goa.canvas",
+    "Notes/Trips/attachments/Pasted image 20240108050639.png",
+    "Notes/Trips/attachments",
+    "Notes/Technical-Notes/C++/_C++.canvas",
+    "Notes/Laptop-Specs.md",
+    "Notes/attachments/Screenshot 2024-01-02 045342.png",
+    "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
+    "Notes/Technical-Notes/SQL-Notes/Recursive Queries.md",
+    "Notes/Technical-Notes/SQL-Notes/view vs CTE.md",
+    "Notes/Technical-Notes/_Tech-Notes.md",
+    "Notes/Technical-Notes/C++/Containers.md",
     "Notes/Trips/Goa.md",
     "Notes/Technical-Notes/C++/FAQ/_FAQ.md",
     "Notes/Books/_Books.canvas",
     "Notes/Trips",
-    "Notes/Technical-Notes/C++/_C++.canvas",
     "Notes/Technical-Notes/C++/FAQ/Sorting a 2d based on custom function.md",
     "Notes/Technical-Notes/C++/FAQ",
     "Notes/Books/Book Wishlist.md",
@@ -201,8 +183,6 @@
     "Notes/Technical-Notes/attachments/Pasted image 20231115151606.png",
     "Notes/Technical-Notes/attachments/Pasted image 20231115143146.png",
     "Notes/Technical-Notes/attachments/Pasted image 20231115150410.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231119055732.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231126221302.png",
     "Notes/Technical-Notes/Cloud/attachments",
     "Notes/Technical-Notes/Cloud/AWS",
     "Notes/Technical-Notes/Cloud/AWS/Redshift.md",
@@ -214,13 +194,8 @@
     "Notes/Technical-Notes/Programming Paradigms",
     "Notes/Technical-Notes/Python-Notes/_Python.md",
     "Notes/Technical-Notes/C++/attachments",
-    "Notes/Technical-Notes/C++/_C++.md",
-    "Notes/Technical-Notes/Obsidian.md",
-    "Notes/Technical-Notes/JavaScript/_JavaScript.md",
     "Notes/Technical-Notes/JavaScript",
-    "Notes/Technical-Notes/Streamlit-Notes/_Streamlit.md",
     "Notes/Technical-Notes/C++",
-    "Notes/Technical-Notes/Data Engineering",
     "Notes/Technical-Notes/Data Engineering/Apache Airflow.canvas"
   ]
 }

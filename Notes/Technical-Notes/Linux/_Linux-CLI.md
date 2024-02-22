@@ -1,4 +1,4 @@
-# Linux-Command-Line
+# Linux CLI
 
 - Linux is open source
 - Linux distribution (distro) : Ubuntu, Debian, Alpine

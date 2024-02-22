@@ -1,8 +1,9 @@
-# Books Archive
+# Books I have read
 
 ---
  - 2024 : 
-	- 
+	- Better small talk - by Patrick King
+	- Do it today - by Darius Foroux
 
 ---
 - 2023 :

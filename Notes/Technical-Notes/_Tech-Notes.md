@@ -1,6 +1,6 @@
 ## Tech Notes
 
-- [Linux-Command-Line](Linux-Command-Line.md)
+- [_Linux-CLI](_Linux-CLI.md)
 - [Streamlit](_Streamlit.md)
 - [Docker](Notes/Docker-Notes/!Docker.md)
 - [Django](_Django.md)

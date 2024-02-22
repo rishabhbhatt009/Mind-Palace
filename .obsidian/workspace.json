@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b4692612ce3c1df9",
+        "id": "3a97c007b1e4f38e",
         "type": "tabs",
         "children": [
           {
-            "id": "15e4e1709283e68a",
+            "id": "1a57bc8751408533",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 385.5
   },
   "right": {
     "id": "63c94c117a166c8a",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md"
+              }
             }
           }
         ]
@@ -140,62 +148,62 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "15e4e1709283e68a",
+  "active": "1a57bc8751408533",
   "lastOpenFiles": [
-    "Notes/Trips/India, Goa.canvas",
-    "Notes/Trips/attachments/Pasted image 20240108050639.png",
-    "Notes/Trips/attachments",
-    "Notes/Technical-Notes/C++/_C++.canvas",
-    "Notes/Laptop-Specs.md",
-    "Notes/attachments/Screenshot 2024-01-02 045342.png",
-    "Notes/Technical-Notes/Data Engineering/Data Modeling.md",
-    "Notes/Technical-Notes/SQL-Notes/Recursive Queries.md",
-    "Notes/Technical-Notes/SQL-Notes/view vs CTE.md",
-    "Notes/Technical-Notes/_Tech-Notes.md",
-    "Notes/Technical-Notes/C++/Containers.md",
-    "Notes/Trips/Goa.md",
-    "Notes/Technical-Notes/C++/FAQ/_FAQ.md",
-    "Notes/Books/_Books.canvas",
-    "Notes/Trips",
-    "Notes/Technical-Notes/C++/FAQ/Sorting a 2d based on custom function.md",
-    "Notes/Technical-Notes/C++/FAQ",
-    "Notes/Books/Book Wishlist.md",
-    "Notes/Books/Book Archive.md",
-    "Notes/Books/Fundamentals of Data Engineering.canvas",
     "Notes/Technical-Notes/Cloud/AWS/_AWS.canvas",
-    "Notes/Technical-Notes/Cloud/AWS/Untitled.md",
-    "Notes/Technical-Notes/Cloud/_Cloud.canvas",
-    "Notes/Technical-Notes/Cloud/Serverless.md",
-    "Notes/Technical-Notes/Cloud/Cloud.md",
+    "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
+    "Notes/Technical-Notes/Cloud/AWS/AWS_Redshift.md",
+    "Notes/Technical-Notes/Cloud/AWS/AWS Lambda Functions.md",
+    "Notes/Technical-Notes/Cloud/AWS/AWS Cloud Formation.md",
+    "Notes/Technical-Notes/Python-Notes/Using credentials in Python.md",
+    "Notes/Technical-Notes/Python-Notes/test-driven-development.md",
+    "Notes/Technical-Notes/Python-Notes/logging.md",
+    "Notes/Technical-Notes/Python-Notes/decorators.md",
+    "Notes/Technical-Notes/Python-Notes/Generators.md",
+    "Notes/Technical-Notes/Python-Notes/Object Oriented Programming.md",
+    "Notes/Technical-Notes/Python-Notes/Package Manager - pipenv.md",
+    "Notes/Technical-Notes/Python-Notes/_Python.md",
+    "Notes/Technical-Notes/Python-Notes/collections.md",
     "Notes/FPL.md",
-    "Notes/Books/attachments/Pasted image 20231212002955.png",
-    "Notes/Books/attachments/Pasted image 20231212002920.png",
-    "Notes/Books/The-Four-Agreements.md",
+    "Notes/Vision Board.canvas",
+    "Notes/Youtube-Archive.md",
+    "Notes/Technology-Stack.canvas",
+    "Notes/resources.md",
+    "Notes/Project Ideas.md",
+    "Notes/Laptop-Specs.md",
+    "Notes/Travel/India, Jaipur.md",
+    "Notes/Travel/India, Goa.canvas",
+    "Notes/Travel/USA, NYC.md",
+    "Notes/Personal Development/Building-Resume.canvas",
+    "Notes/Personal Development/Daily-Routine.md",
+    "Notes/Personal Development/Finance + Budgeting.md",
+    "Notes/Personal Development/Philosophy.md",
+    "Notes/Personal Development/Learning Plan.md",
     "Notes/Books/Think-And-Grow-Rich.canvas",
     "Notes/Books/Think-And-Grow-Rich.md",
-    "Notes/Books/Fundamentals of Data Engineering.md",
-    "Notes/Vision Board.canvas",
-    "Notes/Technology-Stack.canvas",
+    "Notes/Books/The 12 Week Year.canvas",
+    "Notes/Books/Fundamentals of Data Engineering.canvas",
+    "Notes/Books/_Books.canvas",
+    "Notes/Job Applications.canvas",
+    "Notes/Technical-Notes/100DevCourse",
+    "Notes/Technical-Notes/Programming Paradigms/attachments/Pasted image 20240108100308.jpg",
+    "Notes/Travel/attachments/Pasted image 20240108050639.png",
+    "Notes/Travel/attachments",
+    "Notes/attachments/Screenshot 2024-01-02 045342.png",
+    "Notes/Travel",
+    "Notes/Technical-Notes/C++/FAQ",
+    "Notes/Books/attachments/Pasted image 20231212002955.png",
+    "Notes/Books/attachments/Pasted image 20231212002920.png",
     "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064423.jpg",
     "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064339.png",
     "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064327.png",
-    "Notes/Technical-Notes/Docker-Notes/!Docker.md",
     "Notes/Technical-Notes/attachments/Pasted image 20231115151606.png",
     "Notes/Technical-Notes/attachments/Pasted image 20231115143146.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115150410.png",
     "Notes/Technical-Notes/Cloud/attachments",
     "Notes/Technical-Notes/Cloud/AWS",
-    "Notes/Technical-Notes/Cloud/AWS/Redshift.md",
-    "Notes/Technical-Notes/Python-Notes/Private attributes, convention and name mangling.md",
-    "Notes/Technical-Notes/Python-Notes/Python FAQ.md",
-    "Notes/Technical-Notes/Programming Paradigms/Object Oriented Programming.md",
     "Notes/Technical-Notes/Programming Paradigms/attachments",
-    "Notes/Technical-Notes/Programming Paradigms/Programming Paradigms.md",
     "Notes/Technical-Notes/Programming Paradigms",
-    "Notes/Technical-Notes/Python-Notes/_Python.md",
     "Notes/Technical-Notes/C++/attachments",
-    "Notes/Technical-Notes/JavaScript",
-    "Notes/Technical-Notes/C++",
-    "Notes/Technical-Notes/Data Engineering/Apache Airflow.canvas"
+    "Notes/Technical-Notes/JavaScript"
   ]
 }

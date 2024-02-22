@@ -3,15 +3,16 @@
 >[!Quote] Python allows you to thing while you are coding 
 
 ---
-- [[Notes/Technical-Notes/Python-Notes/Object Oriented Programming]] 
+- [Object Oriented Programming](Notes/Technical-Notes/Python-Notes/Object%20Oriented%20Programming.md) 
 - [[decorators]]
 - **Container datatypes** : built-in, [[collections]]
-- [[Python FAQ]]
+- [[_Python FAQ]]
 - [Package Manager - pipenv](Package%20Manager%20-%20pipenv.md)
 
 ---
 Articles : 
 - [Time Complexity of Python Operations](https://wiki.python.org/moin/TimeComplexity) 
 - [How Modulo works in different languages](https://en.wikipedia.org/wiki/Modulo)
-
 - [3 Popular Python style guides](https://blog.codacy.com/3-popular-python-style-guides)
+
+---

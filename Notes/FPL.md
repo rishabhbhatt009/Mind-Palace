@@ -10,6 +10,6 @@ GW29 Blank, except : Burnley v Brentford, Fulham v Spurs, West Ham v Aston Villa
 
 Chips left : Wildcard (GW 30) and Triple Captain (GW 37)
 
-Patience is key  
+- [ ] Patience is key  
 
 ---

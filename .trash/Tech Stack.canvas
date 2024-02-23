@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"type":"text","text":"## Current Stack \n\n- Frontend : \n- Backend : Python\n- SQL : MySQL, PostgreSQL\n- Data Science  :  \n- IDE : VSCode \n- Notes : VSCode ","id":"d9e47516063f0591","x":-380,"y":-400,"width":360,"height":300},
-		{"type":"text","text":"## Plan for 2023 \n\n- Django \n- Apache Spark \n- Docker + Kubernetes\n- API","id":"340a9f214015ad2b","x":0,"y":-400,"width":380,"height":300},
-		{"type":"text","text":"## Future Technology \n\nNeed in the world \n- Django \n- Kubernetes\n- Docker\n\nThings I heard and sound interesting\n- API + REST + GraphQL\n- JS + NodeJS\n- **Distributed Systems** : Apache Spark | Apache Kafka | Apache Airflow\n- Serverless : AWS-Lambda \n- NoSQL : Neo4j, DynamoDB, MongoDB, Pinecone\n- CI/CD : Jenkins, GitHub Actions   \n","id":"7eee3234c7656dd5","x":-380,"y":-80,"width":760,"height":480}
-	],
-	"edges":[]
-}

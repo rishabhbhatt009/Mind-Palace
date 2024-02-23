@@ -1,4 +1,4 @@
-# AWS S3
+# AWS Simple Storage Service (S3)
 
 - It is an object storage service which uses key-values pairs. 
 - Uploading large files that don't fit in ram to s3 : 

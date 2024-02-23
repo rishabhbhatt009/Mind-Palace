@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
+                "file": "Notes/Technical-Notes/GitHub-Notes/Command-Database.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 297.5
   },
   "right": {
     "id": "63c94c117a166c8a",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
+                "file": "Notes/Technical-Notes/GitHub-Notes/Command-Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
+                "file": "Notes/Technical-Notes/GitHub-Notes/Command-Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Technical-Notes/Cloud/AWS/AWS s3.md"
+                "file": "Notes/Technical-Notes/GitHub-Notes/Command-Database.md"
               }
             }
           }
@@ -138,20 +138,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1a57bc8751408533",
   "lastOpenFiles": [
+    "Notes/Technical-Notes/GitHub-Notes/!GitHub-Documentation.md",
+    "Notes/FPL.md",
+    "Notes/resources.md",
+    "Notes/Project Ideas.md",
+    "Notes/Laptop-Specs.md",
+    "Notes/Job Applications.canvas",
+    "Index.md",
+    "ReadMe.md",
+    "Notes/Technology-Stack.canvas",
+    "Notes/attachments/database.jpeg",
+    "Notes/Technical-Notes/Python-Notes/Using Python to Stream Large Data Sets from Postgres to AWS S3.md",
+    "Notes/Technical-Notes/Cloud/AWS/AWS S3.md",
+    "Notes/Technical-Notes/Python-Notes/_Python.md",
+    "Notes/Technical-Notes/Python-Notes/FAQ/_Python FAQ.md",
     "Notes/Technical-Notes/Cloud/AWS/_AWS.canvas",
-    "Notes/Technical-Notes/Cloud/AWS/AWS s3.md",
     "Notes/Technical-Notes/Cloud/AWS/AWS_Redshift.md",
     "Notes/Technical-Notes/Cloud/AWS/AWS Lambda Functions.md",
     "Notes/Technical-Notes/Cloud/AWS/AWS Cloud Formation.md",
@@ -162,29 +174,18 @@
     "Notes/Technical-Notes/Python-Notes/Generators.md",
     "Notes/Technical-Notes/Python-Notes/Object Oriented Programming.md",
     "Notes/Technical-Notes/Python-Notes/Package Manager - pipenv.md",
-    "Notes/Technical-Notes/Python-Notes/_Python.md",
     "Notes/Technical-Notes/Python-Notes/collections.md",
-    "Notes/FPL.md",
     "Notes/Vision Board.canvas",
     "Notes/Youtube-Archive.md",
-    "Notes/Technology-Stack.canvas",
-    "Notes/resources.md",
-    "Notes/Project Ideas.md",
-    "Notes/Laptop-Specs.md",
     "Notes/Travel/India, Jaipur.md",
     "Notes/Travel/India, Goa.canvas",
     "Notes/Travel/USA, NYC.md",
     "Notes/Personal Development/Building-Resume.canvas",
     "Notes/Personal Development/Daily-Routine.md",
-    "Notes/Personal Development/Finance + Budgeting.md",
-    "Notes/Personal Development/Philosophy.md",
-    "Notes/Personal Development/Learning Plan.md",
     "Notes/Books/Think-And-Grow-Rich.canvas",
-    "Notes/Books/Think-And-Grow-Rich.md",
     "Notes/Books/The 12 Week Year.canvas",
     "Notes/Books/Fundamentals of Data Engineering.canvas",
     "Notes/Books/_Books.canvas",
-    "Notes/Job Applications.canvas",
     "Notes/Technical-Notes/100DevCourse",
     "Notes/Technical-Notes/Programming Paradigms/attachments/Pasted image 20240108100308.jpg",
     "Notes/Travel/attachments/Pasted image 20240108050639.png",
@@ -198,7 +199,6 @@
     "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064339.png",
     "Notes/Technical-Notes/C++/attachments/Pasted image 20231206064327.png",
     "Notes/Technical-Notes/attachments/Pasted image 20231115151606.png",
-    "Notes/Technical-Notes/attachments/Pasted image 20231115143146.png",
     "Notes/Technical-Notes/Cloud/attachments",
     "Notes/Technical-Notes/Cloud/AWS",
     "Notes/Technical-Notes/Programming Paradigms/attachments",

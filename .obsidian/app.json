@@ -1,0 +1,14 @@
+{
+  "showInlineTitle": false,
+  "livePreview": false,
+  "showLineNumber": true,
+  "vimMode": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments",
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "Fleeting-Notes"
+}

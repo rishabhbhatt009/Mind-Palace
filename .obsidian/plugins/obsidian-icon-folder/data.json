@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiBrandCpp",
+      "TiBrandPython",
+      "TiBrain",
+      "TiNotes",
+      "TiNotebook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Fleeting-Notes": "TiMailFast",
+  "Knowledge": "TiBrain",
+  "Knowledge/Books": "TiBook",
+  "Knowledge/Projects": "TiNotebook",
+  "Notes-Archive": "TiNotes",
+  "Notes-Archive/Personal-Development": "LiDumbbell",
+  "Notes-Archive/Miscellaneous": "TiNotebook",
+  "Notes-Archive/Pharma-Consulting": "TiNotebook",
+  "Notes-Archive/Software-Development": "RiComputerLine",
+  "Notes-Archive/Travel": "LiPlaneTakeoff"
+}

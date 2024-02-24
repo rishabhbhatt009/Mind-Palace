@@ -1,0 +1,15 @@
+{
+    "things-style@@active-line": false,
+    "things-style@@fancy-code": true,
+    "things-style@@fancy-highlight": true,
+    "things-style@@link-decoration": "None",
+    "things-style@@link-external-decoration": "None",
+    "things-style@@default-font-color": false,
+    "things-style@@strong-color": "#FF82B2",
+    "things-style@@em-color": "#6FFFE9",
+    "things-style@@h1-color": "#F8F9FA",
+    "things-style@@h2-color": "#F8F9FA",
+    "things-style@@h3-color": "#F8F9FA",
+    "things-style@@h4-color": "#F8F9FA",
+    "things-style@@h5-color": "#F8F9FA"
+  }

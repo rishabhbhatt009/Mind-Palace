@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"6fec8a38b15d6018","type":"text","text":"# The 12 Week Year by Brian Morgan\n","x":-1240,"y":-600,"width":500,"height":60},
+		{"id":"33314fdf6fa7a37f","type":"link","url":"https://www.youtube.com/watch?v=pwpTlXsL7M0&ab_channel=FourMinuteBooks","x":-1606,"y":-300,"width":366,"height":206},
+		{"id":"e5c222a87f50dc70","type":"text","text":"## Main Ideas : \n\n- We convert our execution cycle from **12 Months -> 12 Weeks**\n- This helps us by :\n\t- removing complacency and procrastination \n\t- prevents us from getting overwhelmed and helps us concentrate our effort\n- ","x":-600,"y":-870,"width":794,"height":601},
+		{"id":"b3c7d7ceecf3f016","type":"text","text":"## Resources","x":-1080,"y":-400,"width":180,"height":50},
+		{"id":"36c05e59707dced5","x":-1606,"y":-40,"width":366,"height":200,"type":"link","url":"https://www.youtube.com/watch?v=jG0B4xiNF9o&ab_channel=bestbookbits"}
+	],
+	"edges":[
+		{"id":"342cb0f1bd325309","fromNode":"6fec8a38b15d6018","fromSide":"bottom","toNode":"b3c7d7ceecf3f016","toSide":"top"},
+		{"id":"986d319403b95174","fromNode":"6fec8a38b15d6018","fromSide":"right","toNode":"e5c222a87f50dc70","toSide":"left"},
+		{"id":"3d1ef293cfdf46c3","fromNode":"b3c7d7ceecf3f016","fromSide":"bottom","toNode":"33314fdf6fa7a37f","toSide":"right"},
+		{"id":"e113fc00f6e21658","fromNode":"b3c7d7ceecf3f016","fromSide":"bottom","toNode":"36c05e59707dced5","toSide":"right"}
+	]
+}

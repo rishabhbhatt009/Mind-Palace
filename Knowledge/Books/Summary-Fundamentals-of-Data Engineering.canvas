@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8aa1716e7b64098a","type":"text","text":"# Chapter 1 : Data Engineering described\n\n- Definition of DE \n- **DE Life Cycle + Undercurrents** \n- Relationship b/w DE (upstream) and DS (downstream)\n- Data Landscape \n- **Data Science Hierarchy of Needs**\n- **Data Maturity Model** : author's simplified model\n- DE Business and Technical responsibilities \n- **Type A/B DS and DE**\n- Internal v/s External facing DE\n- Upstream Data Producers -> DE -> Downstream Data Consumers \n- DE interaction with :\n\t- other technical roles \n\t- business leadership \n","x":-240,"y":-500,"width":832,"height":477},
+		{"id":"f5a9718743b21e4a","type":"text","text":"# Fundamentals of Data Engineering `WIP`","x":-240,"y":-600,"width":740,"height":60},
+		{"id":"da5af24e7e706854","type":"text","text":"# Chapter 2 : Data Engineering Life Cycle\n\n","x":-240,"y":20,"width":832,"height":560},
+		{"id":"4aee53608380d1fb","type":"file","file":"attachments/Pasted image 20231212002955.png","x":640,"y":20,"width":1009,"height":560}
+	],
+	"edges":[]
+}

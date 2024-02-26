@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"299f862b25ccc739","type":"file","file":"3-Knowledge/Books/Book-Wishlist.md","x":-160,"y":-620,"width":740,"height":500},
+		{"id":"b64cfe9f5098cfc1","type":"file","file":"3-Knowledge/Books/Book-Archive.md","x":620,"y":-620,"width":740,"height":840},
+		{"id":"535cfb275a97ba34","type":"text","text":"# Book summaries / references \n\n- [The 12 Week Year](Summary-The-12-Week-Year.canvas) - by Brian P. Moran \n- [The Four Agreements](Summary-The-Four-Agreements.md) - by Don Miguel Ruiz\n- Building-a-second-brain - by Tiago Forte\n---","x":-160,"y":-100,"width":740,"height":320}
+	],
+	"edges":[]
+}

@@ -8,7 +8,7 @@
   "newFileLocation": "folder",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "_attachments",
   "defaultViewMode": "preview",
   "newFileFolderPath": "Fleeting-Notes"
 }

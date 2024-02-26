@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"e9c443e0aa8c0d17","type":"text","text":"# Trip 2 : Dec 2023\n\n- Day-1 : 16th Dec 2023 \n\t- Direct flight DED to GOA (Mopa airport, North Goa)\n\t- Stay at **Aguada Anchorage**\n- Day-2 : 17th Dec 2023 : \n\t- Places : Sinquerim Beach\n\t- Food : Bomras (Anguna), Gun Powder (Asagaon)\n- Day-3 : 18th Dec 2023\n\t- Places : **Palm Grove Resort** (Ashvam Beach)\n\t- Food : Palm Grove, Tirakol Fort (Tirakol)\n- Day-4 : 19th Dec 2023\n\t- Places : Fontenas (Bakery)\n\t- Food : Konkani Cafe (Panjim), Cafe Bodega \n- Day-5 : 20th Dec 2023\n\t- Places : Anjuna\n\t- Food : Burger Factor, Souza Lobo (Calangute Beach)\n- Day-6 : 21th Dec 2023\n\t- Food : Cafe Chocolatti\n\t- GOA to DED","x":-100,"y":-666,"width":660,"height":580},
+		{"id":"ba253c84f3569a30","type":"text","text":"# Trip 1 : 2013","x":-100,"y":-840,"width":440,"height":86},
+		{"id":"47fc8f7db408ebcc","type":"text","text":"# Goa, India  ","x":-620,"y":-520,"width":250,"height":71},
+		{"id":"9532d6852069f781","type":"file","file":"_attachments/Pasted image 20240108050639.png","x":-560,"y":-840,"width":246,"height":220}
+	],
+	"edges":[
+		{"id":"e9fbb921fe6f971c","fromNode":"47fc8f7db408ebcc","fromSide":"right","toNode":"e9c443e0aa8c0d17","toSide":"left"},
+		{"id":"abaa1cfcbe8c5a7d","fromNode":"47fc8f7db408ebcc","fromSide":"right","toNode":"ba253c84f3569a30","toSide":"left"}
+	]
+}

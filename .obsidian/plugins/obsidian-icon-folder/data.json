@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandCpp",
-      "TiBrandPython",
       "TiBrain",
-      "TiNotes",
-      "TiNotebook"
+      "TiArchive",
+      "RiArticleLine",
+      "RiComputerLine",
+      "TiBrandCpp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,14 +27,16 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Fleeting-Notes": "TiMailFast",
-  "Knowledge": "TiBrain",
-  "Knowledge/Books": "TiBook",
-  "Knowledge/Projects": "TiNotebook",
-  "Notes-Archive": "TiNotes",
-  "Notes-Archive/Personal-Development": "LiDumbbell",
-  "Notes-Archive/Miscellaneous": "TiNotebook",
-  "Notes-Archive/Pharma-Consulting": "TiNotebook",
-  "Notes-Archive/Software-Development": "RiComputerLine",
-  "Notes-Archive/Travel": "LiPlaneTakeoff"
+  "1-Fleeting-Notes": "TiMailFast",
+  "2-Projects": "TiNotebook",
+  "4-Notes-Archive": "TiArchive",
+  "4-Notes-Archive/Personal-Development": "LiDumbbell",
+  "4-Notes-Archive/Miscellaneous": "TiNotebook",
+  "4-Notes-Archive/Pharma-Consulting": "TiNotebook",
+  "4-Notes-Archive/Software-Development": "RiComputerLine",
+  "4-Notes-Archive/Travel": "LiPlaneTakeoff",
+  "3-Knowledge/Books": "TiBook",
+  "3-Knowledge/Software-Development": "RiComputerLine",
+  "3-Knowledge": "TiBrain",
+  "2-Projects/Articles and Videos": "RiArticleLine"
 }

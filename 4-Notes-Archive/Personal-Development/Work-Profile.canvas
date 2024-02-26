@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"fa07e620da79bad1","type":"text","text":"## GPT-Prompts \n\n- Help me build resume bullet points for my work experience. I wll provide my job title, description of the work I did and set of technical skills I want to highlight. Limit your response to 2-3 bullet points to add to my resume based on this information. It's important to make them concise, impactful, use action verbs, quantify achievements and focus on results. \n","x":-300,"y":-540,"width":580,"height":253},
+		{"id":"a8fbfaf044fb5e7f","type":"text","text":"# Building Resume","x":-883,"y":-780,"width":314,"height":77},
+		{"id":"62a9e1a1e2311378","type":"text","text":"## Resume Keywords\n\n- [ ] data mining \n- [ ] artificial intelligence \n- [ ] end to end \n- [ ] shell \n- [ ] software development \n- [ ] deep learning \n- [ ] ML models\n- [ ] performance optimization \n- [ ] data models\n- [ ] data architecture \n- [ ] data processing \n- [ ] data visualization \n","x":-300,"y":-220,"width":443,"height":600},
+		{"id":"1880564ddafd9cba","type":"file","file":"_attachments/Pasted image 20231101065233.png","x":480,"y":-1193,"width":400,"height":321},
+		{"id":"52e2160a0ab3b7b5","type":"file","file":"_attachments/Pasted image 20231101065320.png","x":480,"y":-849,"width":400,"height":325},
+		{"id":"35023c56c7e7ac79","type":"file","file":"_attachments/Pasted image 20231101065449.png","x":-1640,"y":-1421,"width":400,"height":283},
+		{"id":"fd1969f3ff8f5459","type":"text","text":"## LinkedIn\n\n- [x] High Quality Profile Picture + Banner/Cover Photo\n- [x] Headline : Job Title | Value Proposition (Expertise) | USP\n- [ ] About / Summary  : **right keywords** \n- [ ] Endorsement for skills \n- [x] Featured Section \n\nHiring Posts : Search (\"Job Title\" AND \"hiring\") + author company","x":-1026,"y":-1279,"width":600,"height":368},
+		{"id":"e7f719037b443266","type":"text","text":"# Messaging Recruiters\n\nEnd with request \nConnect with Rec + a person in the role \nConnect with Rec first :\n- connection request : relatable | compliment | add value \n- ask to connect with someone in team \n- ","x":-240,"y":-1327,"width":700,"height":464},
+		{"id":"6e3058e25b4897fe","type":"file","file":"_attachments/Pasted image 20231026082349.png","x":-1940,"y":-991,"width":400,"height":288},
+		{"id":"4fa3e30f1ee98096","type":"text","text":"[Unicode Convertor](https://www.linkedin-makeover.com/linkedin-text-formatter/) \nMay impact keywords search, therefore use on metrics instead of keywords","x":-2420,"y":-902,"width":380,"height":111},
+		{"id":"5152c047d7eca114","type":"file","file":"_attachments/Pasted image 20231101072543.png","x":-1520,"y":-990,"width":442,"height":288},
+		{"id":"590c709b1fe04167","type":"text","text":"## Actual Resume \n\n- 1 Page \n- [X-Y-Z Formula][1] : \"Accomplished X as measured by Y, by doing Z.\" \n\n---\n[1]: https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html","x":-1013,"y":-580,"width":574,"height":333},
+		{"id":"40e5d4ed058914ab","type":"link","url":"https://www.youtube.com/watch?v=ZXmbb5fPfgk&ab_channel=JeffSu","x":-2423,"y":-377,"width":423,"height":217},
+		{"id":"5003cf131ac28ead","type":"text","text":"# Using Chat GPT in Job Search","x":-2441,"y":-580,"width":459,"height":74},
+		{"id":"32046065df14821e","type":"text","text":"[WordCloud](https://monkeylearn.com/word-cloud/) for keywords","x":-2120,"y":-1613,"width":325,"height":53},
+		{"id":"d9d278a971c321a8","type":"file","file":"_attachments/Pasted image 20231101065857.png","x":-2280,"y":-1445,"width":400,"height":333},
+		{"id":"e13439b72e47eb2f","type":"text","text":"Endorsement on top 3 skills \nOrder you skills","x":-1576,"y":-1600,"width":273,"height":80},
+		{"id":"1a9bfb3519ed787b","type":"file","file":"_attachments/Pasted image 20231101072842.png","x":-1640,"y":-1940,"width":400,"height":251}
+	],
+	"edges":[
+		{"id":"c2ba319afc9ff055","fromNode":"590c709b1fe04167","fromSide":"right","toNode":"fa07e620da79bad1","toSide":"left"},
+		{"id":"f9e7cf0df266a5c5","fromNode":"a8fbfaf044fb5e7f","fromSide":"bottom","toNode":"590c709b1fe04167","toSide":"top"},
+		{"id":"ff4da96ec605b0b5","fromNode":"a8fbfaf044fb5e7f","fromSide":"top","toNode":"fd1969f3ff8f5459","toSide":"bottom"},
+		{"id":"2f584020cfcfa8bd","fromNode":"590c709b1fe04167","fromSide":"right","toNode":"62a9e1a1e2311378","toSide":"left"},
+		{"id":"0a8f9fcc5558cfed","fromNode":"fd1969f3ff8f5459","fromSide":"right","toNode":"e7f719037b443266","toSide":"left"},
+		{"id":"5c8bc2253de8f7c0","fromNode":"fd1969f3ff8f5459","fromSide":"left","toNode":"35023c56c7e7ac79","toSide":"right","label":"All Star Profile"},
+		{"id":"b78958f543e7b2a8","fromNode":"35023c56c7e7ac79","fromSide":"bottom","toNode":"6e3058e25b4897fe","toSide":"top","label":"Summary"},
+		{"id":"dcb956fa2f4ec234","fromNode":"35023c56c7e7ac79","fromSide":"left","toNode":"d9d278a971c321a8","toSide":"right"},
+		{"id":"2d2625e4be0518e8","fromNode":"6e3058e25b4897fe","fromSide":"left","toNode":"4fa3e30f1ee98096","toSide":"right"},
+		{"id":"5e172ff84f26cd60","fromNode":"35023c56c7e7ac79","fromSide":"bottom","toNode":"5152c047d7eca114","toSide":"top"},
+		{"id":"01ccf1048a1e5030","fromNode":"e13439b72e47eb2f","fromSide":"top","toNode":"1a9bfb3519ed787b","toSide":"bottom"},
+		{"id":"a23678ed37473be9","fromNode":"35023c56c7e7ac79","fromSide":"top","toNode":"e13439b72e47eb2f","toSide":"bottom","label":"Endorsement"},
+		{"id":"26ddc5284d41432e","fromNode":"5003cf131ac28ead","fromSide":"bottom","toNode":"40e5d4ed058914ab","toSide":"top"},
+		{"id":"4d898d8fb573cc9d","fromNode":"35023c56c7e7ac79","fromSide":"left","toNode":"32046065df14821e","toSide":"right","label":"keywords"}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4a425b73a47bddd2","type":"file","file":"4-Notes-Archive/Software-Development/C++/Standard Library & STL in C++.md","x":-1960,"y":-1250,"width":760,"height":1018},
+		{"id":"d055154697327794","type":"file","file":"4-Notes-Archive/Software-Development/C++/OOP Concepts in C++.md","x":-2760,"y":-1250,"width":760,"height":530},
+		{"id":"2e5db25046d18c61","type":"file","file":"4-Notes-Archive/Software-Development/C++/Introduction to C++.md","x":-4480,"y":-1250,"width":780,"height":530},
+		{"id":"2b3c0366bf40210c","type":"file","file":"4-Notes-Archive/Software-Development/C++/Basic Syntax in C++.md","x":-3620,"y":-1250,"width":820,"height":1018},
+		{"id":"e8b7803c4cb60a3a","type":"file","file":"_attachments/Pasted image 20231204100555.png","x":-4480,"y":0,"width":432,"height":280},
+		{"id":"5d697326b845f6a9","type":"file","file":"_attachments/Pasted image 20231204100606.png","x":-4480,"y":320,"width":399,"height":315},
+		{"id":"fa0acef79a9f7c31","type":"file","file":"4-Notes-Archive/Software-Development/C++/Exception Handling in C++.md","x":-2760,"y":-680,"width":560,"height":274},
+		{"id":"30b2963ce79aef47","type":"file","file":"4-Notes-Archive/Software-Development/C++/Notes/_Note-Index.md","x":-1140,"y":-1250,"width":531,"height":707},
+		{"id":"d2c8402c307d4300","type":"file","file":"_attachments/Pasted image 20231206064339.png","x":-4480,"y":-643,"width":356,"height":200}
+	],
+	"edges":[]
+}

@@ -1,0 +1,161 @@
+{
+  "workspaces": {
+    "Vision-Board": {
+      "main": {
+        "id": "fabfea16148c450b",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c0614ff5846d188",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4b477c0833b991ad",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Notes-Archive/Personal-Development/_Vision-Board.canvas",
+                    "viewState": {
+                      "x": -610,
+                      "y": 95,
+                      "zoom": -0.5825131027798377
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "cbd57c996b4364f3",
+        "type": "split",
+        "children": [
+          {
+            "id": "01717e091361700a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ca2761694d72136",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "0e84b6e75d085a20",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "54d2e262ec3a2a82",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 304.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "077d06ad5cd88acf",
+        "type": "split",
+        "children": [
+          {
+            "id": "332f6662cec4574e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "23f8af53e2d1ce4e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Notes-Archive/Personal-Development/_Vision-Board.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c3841c77efedae40",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Notes-Archive/Personal-Development/_Vision-Board.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "466bace8b8bb9fb0",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "866e72fc6a228783",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Notes-Archive/Personal-Development/_Vision-Board.canvas"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "4b477c0833b991ad"
+    }
+  },
+  "active": "Vision-Board"
+}

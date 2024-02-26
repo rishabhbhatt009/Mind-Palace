@@ -4,18 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "c0844fb83f2711f1",
+        "id": "0c0614ff5846d188",
         "type": "tabs",
         "children": [
           {
-            "id": "f77a8069b4b3ff67",
+            "id": "50b39a8459fa8dd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "3-Knowledge/Books/_Books-Index.canvas",
+                "viewState": {
+                  "x": 381.38975869187203,
+                  "y": -135.78174131667558,
+                  "zoom": -0.4499712893882312
+                }
+              }
+            }
+          },
+          {
+            "id": "68a0d06cfa385847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "077d06ad5cd88acf",
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ReadMe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ReadMe.md"
+              }
             }
           }
         ]
@@ -140,63 +165,62 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f77a8069b4b3ff67",
+  "active": "5ca2761694d72136",
   "lastOpenFiles": [
-    "Notes-Archive/Personal-Development/Vision Board.canvas",
-    "Notes-Archive/Personal-Development/Daily-Routine.md",
-    "Notes-Archive/Personal-Development/Finance+Budgeting.md",
-    "Notes-Archive/Personal-Development/Building-Resume.canvas",
-    "Notes-Archive/Software-Development/Python-Notes/Using credentials in Python.md",
-    "Notes-Archive/Software-Development/Python-Notes/Using Python to Stream Large Data Sets from Postgres to AWS S3.md",
-    "Notes-Archive/Software-Development/Python-Notes/test-driven-development.md",
-    "Notes-Archive/Software-Development/Python-Notes/Package Manager - pipenv.md",
-    "Notes-Archive/Software-Development/Python-Notes/Object Oriented Programming.md",
-    "Notes-Archive/Software-Development/Python-Notes/logging.md",
-    "Notes-Archive/Software-Development/Python-Notes/Generators.md",
-    "Notes-Archive/Software-Development/Python-Notes/decorators.md",
-    "Notes-Archive/Software-Development/Python-Notes/collections.md",
-    "Notes-Archive/Software-Development/Python-Notes/_Python-Index.md",
-    "Notes-Archive/Software-Development/SQL-Notes/_SQL.md",
-    "Knowledge/Software-Development/Programming-Paradigms/Object-Oriented-Programming.md",
-    "Knowledge/Software-Development/Programming-Paradigms/_Programming Paradigms.md",
-    "Knowledge/Software-Development/GitHub-Notes/_GitHub-Index.md",
-    "Knowledge/Software-Development/GitHub-Notes/Command-Database.md",
-    "Knowledge/Software-Development/GitHub-Notes/Theory.md",
-    "Knowledge/Software-Development/GitHub-Notes/How-to-review-Pull-Request.md",
-    "Knowledge/Software-Development/GitHub-Notes/github-pages.md",
-    "Knowledge/Software-Development/GitHub-Notes/How-to-pull-latest-changes-to-your-local.md",
-    "Knowledge/Software-Development/GitHub-Notes/How-to-create-and-share-your-SSH-key.md",
-    "Notes-Archive/Software-Development/API Development/REST API.md",
-    "Notes-Archive/Software-Development/API Development/API.md",
-    "Knowledge/Software-Development/Cloud/Serverless.md",
-    "Knowledge/Software-Development/AWS/_AWS-Index.canvas",
-    "Knowledge/Software-Development/Cloud/_Cloud.canvas",
-    "Knowledge/Software-Development/Data-Engineering/Apache-Airflow.canvas",
-    "Notes-Archive/Software-Development/C++/_C++.canvas",
-    "Notes-Archive/Software-Development/C++/Containers in C++.canvas",
-    "Knowledge/Books/Summary-Think-And-Grow-Rich.canvas",
-    "Knowledge/Software-Development",
-    "Knowledge/Books/Summary-The-12-Week-Year.canvas",
-    "Knowledge/Books/Summary-Fundamentals-of-Data Engineering.canvas",
-    "Knowledge/Books/_Books-Index.canvas",
-    "Knowledge/Books",
-    "Knowledge/Projects/KMK-Data-Pipeline",
-    "Knowledge/Software-Development/Language-SQL",
-    "Knowledge/Software-Development/Language-Cpp",
-    "Knowledge/Software-Development/Language-Python",
-    "Knowledge/Projects",
-    "Knowledge",
-    "Excalidraw",
-    "Knowledge",
-    "attachments/Pasted image 20231126221438.png",
-    "attachments/think-and-grow-rich.jpg",
-    "attachments/Pasted image 20231212002920.png",
-    "attachments/AstroMonogram.svg",
-    "attachments/Pasted image 20231115143146.png",
-    "attachments/Pasted image 20231126221302.png",
-    "attachments/Pasted image 20231212002955.png",
-    "attachments/Pasted image 20231101065320.png",
-    "attachments/Pasted image 20231026082349.png",
-    "attachments/Pasted image 20231026081637.png"
+    "3-Knowledge/Software-Development/Language-Python/_Python-Index.md",
+    "3-Knowledge/Software-Development/AWS/AWS-S3.md",
+    "3-Knowledge/Software-Development/Language-Python/_notes",
+    "3-Knowledge/Software-Development/AWS/AWS-Redshift.md",
+    "3-Knowledge/Software-Development/AWS/AWS-Lambda-Functions.md",
+    "3-Knowledge/Software-Development/AWS/AWS-Cloud-Formation.md",
+    "3-Knowledge/Software-Development/AWS/_AWS-Index.canvas",
+    "4-Notes-Archive/Software-Development/API Development/REST API.md",
+    "4-Notes-Archive/Software-Development/API Development/API.md",
+    "4-Notes-Archive/Software-Development/_Tech-Notes.md",
+    "4-Notes-Archive/Personal-Development/Work-Technology-Stack.canvas",
+    "4-Notes-Archive/Personal-Development/Work-Resume.md",
+    "4-Notes-Archive/Personal-Development/Work-Profile.canvas",
+    "4-Notes-Archive/Personal-Development/Work-Job-Applications.canvas",
+    "4-Notes-Archive/Personal-Development/_Vision-Board.canvas",
+    "4-Notes-Archive/Personal-Development/_notes/Daily-Routine.md",
+    "1-Fleeting-Notes/Building-a-second-brain.md",
+    "4-Notes-Archive/Personal-Development/_notes",
+    "4-Notes-Archive/Personal-Development/Untitled.md",
+    "4-Notes-Archive/Projects",
+    "3-Knowledge/Books/_Books-Index.canvas",
+    "3-Knowledge/Books/Book-Archive.md",
+    "3-Knowledge/Books/Book-Wishlist.md",
+    "3-Knowledge/Books/Summary-Think-And-Grow-Rich.md",
+    "3-Knowledge/Books/Summary-Think-And-Grow-Rich.canvas",
+    "2-Projects/_archive",
+    "3-Knowledge/Books/Summary-The-Four-Agreements.md",
+    "3-Knowledge/Books/Summary-The-12-Week-Year.canvas",
+    "3-Knowledge/Books/Summary-Fundamentals-of-Data-Engineering.canvas",
+    "2-Projects/Articles and Videos",
+    "3-Knowledge/Software-Development/Programming-Paradigms/_Programming Paradigms.md",
+    "4-Notes-Archive/Personal-Development/_notes/Project-Ideas.md",
+    "ReadMe.md",
+    "4-Notes-Archive/Miscellaneous/FPL.md",
+    "4-Notes-Archive/Miscellaneous/Laptop-Specs.md",
+    "4-Notes-Archive/Miscellaneous/Resource-Archive.md",
+    "4-Notes-Archive/Personal-Development/_notes/Finance+Budgeting.md",
+    "4-Notes-Archive/Personal-Development/_notes/Learning Plan.md",
+    "4-Notes-Archive/Personal-Development/_notes/Philosophy.md",
+    "3-Knowledge/Software-Development/Cloud/_Cloud.canvas",
+    "3-Knowledge/Software-Development",
+    "3-Knowledge/Books",
+    "2-Projects/KMK-Data-Pipeline",
+    "3-Knowledge/Software-Development/Language-SQL",
+    "3-Knowledge/Software-Development/Language-Cpp",
+    "_attachments/Pasted image 20231126221438.png",
+    "_attachments/think-and-grow-rich.jpg",
+    "_attachments/Pasted image 20231212002920.png",
+    "_attachments/AstroMonogram.svg",
+    "_attachments/Pasted image 20231115143146.png",
+    "_attachments/Pasted image 20231126221302.png",
+    "_attachments/Pasted image 20231212002955.png",
+    "_attachments/Pasted image 20231101065320.png",
+    "_attachments/Pasted image 20231026082349.png",
+    "_attachments/Pasted image 20231026081637.png"
   ]
 }
